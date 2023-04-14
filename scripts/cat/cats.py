@@ -1749,9 +1749,9 @@ class Cat():
             return
 
         # remove accessories if need be
-        if 'NOTAIL' in self.scars and self.accessory in ['RED FEATHERS', 'BLUE FEATHERS', 'JAY FEATHERS']:
+        if 'NOTAIL' in self.scars and self.accessory in ['RED FEATHERS', 'BLUE FEATHERS', 'JAY FEATHERS', 'SEAWEED', 'DAISY CORSAGE']:
             self.accessory = None
-        if 'HALFTAIL' in self.scars and self.accessory in ['RED FEATHERS', 'BLUE FEATHERS', 'JAY FEATHERS']:
+        if 'HALFTAIL' in self.scars and self.accessory in ['RED FEATHERS', 'BLUE FEATHERS', 'JAY FEATHERS', 'SEAWEED', 'DAISY CORSAGE']:
             self.accessory = None
 
         condition = PERMANENT[name]
