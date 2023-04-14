@@ -34,7 +34,6 @@ from .pelts import (
     yellow_eyes,
     pelt_colours,
     tortiepatterns,
-    # vvv these are modded ones
     plant2_accessories,
     flower_accessories,
     snake_accessories,
