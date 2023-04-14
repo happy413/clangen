@@ -1128,6 +1128,24 @@ def update_sprite(cat):
             new_sprite.blit(sprites.sprites['acc_wild' + cat.accessory + cat_sprite], (0, 0))
         elif cat.accessory in collars:
             new_sprite.blit(sprites.sprites['collars' + cat.accessory + cat_sprite], (0, 0))
+               elif cat.accessory in plant2_accessories:
+            new_sprite.blit(sprites.sprites['acc_plant2' + cat.accessory + cat_sprite], (0, 0))
+        elif cat.accessory in flower_accessories:
+            new_sprite.blit(sprites.sprites['acc_flower' + cat.accessory + cat_sprite], (0, 0))
+        elif cat.accessory in snake_accessories:
+            new_sprite.blit(sprites.sprites['acc_snake' + cat.accessory + cat_sprite], (0, 0))
+        elif cat.accessory in smallAnimal_accessories:
+            new_sprite.blit(sprites.sprites['acc_smallAnimal' + cat.accessory + cat_sprite], (0, 0))
+        elif cat.accessory in deadInsect_accessories:
+            new_sprite.blit(sprites.sprites['acc_deadInsect' + cat.accessory + cat_sprite], (0, 0))
+        elif cat.accessory in aliveInsect_accessories:
+            new_sprite.blit(sprites.sprites['acc_aliveInsect' + cat.accessory + cat_sprite], (0, 0))
+        elif cat.accessory in fruit_accessories:
+            new_sprite.blit(sprites.sprites['acc_fruit' + cat.accessory + cat_sprite], (0, 0))
+        elif cat.accessory in crafted_accessories:
+            new_sprite.blit(sprites.sprites['acc_crafted' + cat.accessory + cat_sprite], (0, 0))
+        elif cat.accessory in tail2_accessories:
+            new_sprite.blit(sprites.sprites['acc_tail' + cat.accessory + cat_sprite], (0, 0))
 
         # Apply fading fog
         if cat.opacity <= 97 and not cat.prevent_fading and game.settings["fading"]:
