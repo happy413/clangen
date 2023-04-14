@@ -12,7 +12,7 @@
    {
         "camp": "any",
         "tags": ["Newleaf", "Greenleaf", "other_cat"],
-        "event_text": "m_c, inbetween playfighting with r_c, collects scraps of daisies that sometimes get stuck in r_c's pelt. After quite a while, m_c {VERB/m_c/crafts/craft} a daisy corsage for {PRONOUN/m_c/object} tail!",
+        "event_text": "m_c, inbetween playfighting with r_c, collects scraps of daisies that sometimes get stuck in r_c's pelt. After quite a while, m_c {VERB/m_c/craft/crafts} a daisy corsage for {PRONOUN/m_c/object} tail!",
         "cat_trait": null,
         "cat_skill": null,
         "other_cat_trait": null,
@@ -52,7 +52,7 @@
     {
         "camp": "any",
         "tags": ["Newleaf", "Greenleaf", "Leaf-fall", "Leaf-bare"],
-        "event_text": "m_c manages to find a spare allium near the medicine den! {PRONOUN/m_c/subject/CAP} {VERB/m_c/purrs/purr} as {PRONOUN/m_c/subject} {VERB/m_c/tucks/tuck} it under {PRONOUN/m_c/poss} ears -- {PRONOUN/m_c/subject} look so fashionable!",
+        "event_text": "m_c manages to find a spare allium near the medicine den! {PRONOUN/m_c/subject/CAP} {VERB/m_c/purr/purrs} as {PRONOUN/m_c/subject} {VERB/m_c/tuck/tucks} it under {PRONOUN/m_c/poss} ears -- {PRONOUN/m_c/subject} look so fashionable!",
         "cat_trait": null,
         "cat_skill": null,
         "other_cat_trait": null,
