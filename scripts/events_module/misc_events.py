@@ -1,7 +1,7 @@
 import random
 
 from scripts.cat.cats import Cat
-from scripts.cat.pelts import wild_accessories, plant_accessories, collars, tail_accessories
+from scripts.cat.pelts import wild_accessories, plant_accessories, collars, tail_accessories, plant2_accessories, flower_accessories, snake_accessories, smallAnimal_accessories, deadInsect_accessories, aliveInsect_accessories, fruit_accessories, crafted_accessories, tail2_accessories
 from scripts.events_module.generate_events import GenerateEvents
 from scripts.utility import event_text_adjust, change_clan_relations, change_relationship_values
 from scripts.game_structure.game_essentials import game
@@ -151,9 +151,27 @@ class MiscEvents():
             acc_list.extend(plant_accessories)
         if "COLLAR" in possible_accs:
             acc_list.extend(collars)
-
+        if "FLOWER" in possible_accs:
+            acc_list.extend(flower_accessories)
+        if "PLANT2" in possible_accs:
+            acc_list.extend(plant2_accessories)
+        if "SNAKE" in possible_accs:
+            acc_list.extend(snake_accessories)
+        if "SMALLANIMAL" in possible_accs:
+            acc_list.extend(smallAnimal_accessories)
+        if "DEADINSECT" in possible_accs:
+            acc_list.extend(deadInsect_accessories)
+        if "ALIVEINSECT" in possible_accs:
+            acc_list.extend(aliveInsect_accessories)
+        if "FRUIT" in possible_accs:
+            acc_list.extend(fruit_accessories)
+        if "CRAFTED" in possible_accs:
+            acc_list.extend(crafted_accessories)
+        if "TAIL2" in possible_accs:
+            acc_list.extend(crafted_accessories)
+        
         for acc in possible_accs:
-            if acc not in ["WILD", "PLANT", "COLLAR"]:
+            if acc not in ["WILD", "PLANT", "COLLAR", "FLOWER", "PLANT2", "SNAKE", "SMAILLANIMAL", "DEADINSECT", "ALIVEINSECT", "FRUIT", "CRAFTED", "TAIL2"]:
                 acc_list.append(acc)
 
         if ("NOTAIL" or "HALFTAIL") in cat.scars:
@@ -161,5 +179,12 @@ class MiscEvents():
                 acc_list.remove(acc for acc in tail_accessories)
             except:
                 print('attempted to remove tail accs from possible acc list, but no tail accs were in the list!')
+        
+        if ("NOTAIL" or "HALFTAIL") in cat.scars:
+            try:
+                acc_list.remove(acc for acc in tail2_accessories)
+            except:
+                print('attempted to remove tail accs from possible acc list, but no tail accs were in the list!')
+
 
         cat.accessory = random.choice(acc_list)
