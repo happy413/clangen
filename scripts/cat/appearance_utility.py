@@ -34,6 +34,16 @@ from .pelts import (
     yellow_eyes,
     pelt_colours,
     tortiepatterns,
+    # vvv these are modded ones
+    plant2_accessories,
+    flower_accessories,
+    snake_accessories,
+    smallAnimal_accessories,
+    aliveInsect_accessories,
+    deadInsect_accessories,
+    fruit_accessories,
+    crafted_accessories,
+    tail2_accessories
     )
 from scripts.cat.sprites import Sprites
 from scripts.game_structure.game_essentials import game
@@ -419,7 +429,15 @@ def init_accessories(cat):
     if acc_display_choice == 1:
         cat.acc_display = choice([
             choice(plant_accessories),
-            choice(wild_accessories)
+            choice(wild_accessories),
+            choice(flower_accessories),
+            choice (snake_accessories),
+            choice(smallAnimal_accessories),
+            choice(aliveInsect_accessories),
+            choice(deadInsect_accessories),
+            choice(fruit_accessories),
+            choice(crafted_accessories),
+            choice(tail2_accessories)
         ])
     else:
         cat.acc_display = None
