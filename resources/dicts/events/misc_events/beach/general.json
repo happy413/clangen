@@ -1,7 +1,7 @@
 [
         {
         "camp": "any",
-        "tags": ["other_cat", "to_both", "platonic", "comfort", "neg_dislike", "neg_jealousy", "Newleaf", "Greenleaf", "Leaf-fall", "Leaf-bare"],
+        "tags": ["other_cat",  "other_cat_adult", "to_both", "platonic", "comfort", "neg_dislike", "neg_jealousy", "Newleaf", "Greenleaf", "Leaf-fall", "Leaf-bare"],
         "event_text": "r_c finds a patch of odd red orchids. {PRONOUN/r_c/subject/CAP} {VERB/r_c/decides/decide} to take a pair of it's prettiest blooms for a gift to give to m_c! m_c decorates {PRONOUN/m_c/self} with the pretty flowers, cooing softly at how pretty {PRONOUN/m_c/subject} feel with them on.",
         "cat_trait": null,
         "cat_skill": null,
@@ -12,7 +12,7 @@
     {
         "camp": "any",
         "tags": ["Newleaf","Greenleaf", "Leaf-bare", "Leaf-fall"],
-        "event_text": "m_c tilts {PRONOUN/m_c/poss} head at the camp wall. Nobody's entirely sure why... until {PRONOUN/m_c/subject} pluck a few ivy leaves off of the wall, and wear it with pride.",
+        "event_text": "m_c tilts {PRONOUN/m_c/poss} head at the camp wall. Nobody's entirely sure why... until {PRONOUN/m_c/subject} {VERB/m_c/plucks/pluck} a few ivy leaves off of the wall, and wear it with pride.",
         "cat_trait": null,
         "cat_skill": null,
         "other_cat_trait": null,
@@ -21,8 +21,8 @@
     },
         {
         "camp": "any",
-        "tags": ["other_cat", "to_both", "platonic", "comfort", "neg_dislike", "neg_jealousy", "Newleaf", "Greenleaf", "Leaf-fall", "Leaf-bare"],
-        "event_text": "r_c finds a pretty, smelly field of onions with pretty pink blooms. {PRONOUN/r_c/subject/CAP} take a few, and {VERB/r_c/gifts/gift} the stalks to m_c! m_c wears them all with a big sunny smile.",
+        "tags": ["other_cat",  "other_cat_adult", "to_both", "platonic", "comfort", "neg_dislike", "neg_jealousy", "Newleaf", "Greenleaf", "Leaf-fall", "Leaf-bare"],
+        "event_text": "r_c finds a pretty, smelly field of onions with pretty pink blooms. {PRONOUN/r_c/subject/CAP} {VERB/r_c/takes/take} a few, and {VERB/r_c/gifts/gift} the stalks to m_c! m_c wears them all with a big sunny smile.",
         "cat_trait": null,
         "cat_skill": null,
         "other_cat_trait": null,
@@ -32,7 +32,7 @@
         {
         "camp": "any",
         "tags": ["other_cat", "to_both", "platonic", "comfort", "neg_dislike", "neg_jealousy", "Newleaf", "Greenleaf", "Leaf-fall", "Leaf-bare"],
-        "event_text": "r_c gifted m_c three flowers! m_c wears them all with a big sunny smile.",
+        "event_text": "r_c gifted m_c bunches of pretty purple flowers! m_c wears them all with a big sunny smile.",
         "cat_trait": null,
         "cat_skill": null,
         "other_cat_trait": null,
@@ -42,7 +42,7 @@
     {
         "camp": "any",
         "tags": ["Greenleaf", "Leaf-fall"],
-        "event_text": "m_c finds a pretty pink flower! {PRONOUN/m_c/subject/CAP} wear it with a smile.",
+        "event_text": "m_c finds a pretty pink flower! {PRONOUN/m_c/subject/CAP} {VERB/m_c/wears/wear} it with a smile.",
         "cat_trait": null,
         "cat_skill": null,
         "other_cat_trait": null,
@@ -61,8 +61,8 @@
     },
         {
         "camp": "any",
-        "tags": ["other_cat", "to_both", "platonic", "comfort", "neg_dislike", "neg_jealousy", "Newleaf","Greenleaf", "Leaf-bare", "Leaf-fall"],
-        "event_text": "m_c pokes around in the fresh kill pile. {PRONOUN/m_c/subject/CAP} manage to scavenge a whole bird skull! ...Gross! r_c helps {PRONOUN/m_c/poss} wash it and properly clean it before m_c wears it around camp.",
+        "tags": ["other_cat",  "other_cat_adult", "to_both", "platonic", "comfort", "neg_dislike", "neg_jealousy", "Newleaf","Greenleaf", "Leaf-bare", "Leaf-fall"],
+        "event_text": "m_c pokes around in the fresh kill pile. {PRONOUN/m_c/subject/CAP} {VERB/m_c/manages/manage} to scavenge a whole bird skull! ...Gross! r_c helps {PRONOUN/m_c/poss} wash it and properly clean it before m_c wears it around camp.",
         "cat_trait": ["adventurous", "bloodthirsty", "bold", "vengeful", "strange"],
         "cat_skill": null,
         "other_cat_trait": null,
