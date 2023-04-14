@@ -18,5 +18,15 @@
         "other_cat_trait": null,
         "other_cat_skill": null,
         "accessories": ["CRAB"]
-    } 
+    },
+      {
+        "camp": "any",
+        "tags": ["other_cat", "to_both", "platonic", "comfort", "neg_dislike", "neg_jealousy", "Newleaf", "Greenleaf", "Leaf-fall", "Leaf-bare"],
+        "event_text": "m_c received a present, dried but vibrant acc_plural, from r_c and decided to keep it with {PRONOUN/m_c/object} on {PRONOUN/m_c/poss} tail.",
+        "cat_trait": null,
+        "cat_skill": null,
+        "other_cat_trait": null,
+        "other_cat_skill": null,
+        "accessories": ["SEAWEED"]
+    }
 ]
