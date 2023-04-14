@@ -419,14 +419,6 @@
     "plural": "indigo nylon collars",
     "singular": "indigo nylon collar"
   },
-
-
-
-/// its moddin time :3 below r all of my current modded accessories, which r not totally in order :3
-  
-
-
-
   "CLOVER" : {
     "default": "clover",
     "plural": "clovers",
@@ -792,5 +784,5 @@
     "default": "bird skull",
     "plural": "bird skulls",
     "singular": "bird skull"
-},
+}
 }
