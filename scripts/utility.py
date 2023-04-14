@@ -1131,7 +1131,7 @@ def update_sprite(cat):
             new_sprite.blit(sprites.sprites['acc_wild' + cat.accessory + cat_sprite], (0, 0))
         elif cat.accessory in collars:
             new_sprite.blit(sprites.sprites['collars' + cat.accessory + cat_sprite], (0, 0))
-               elif cat.accessory in plant2_accessories:
+        elif cat.accessory in plant2_accessories:
             new_sprite.blit(sprites.sprites['acc_plant2' + cat.accessory + cat_sprite], (0, 0))
         elif cat.accessory in flower_accessories:
             new_sprite.blit(sprites.sprites['acc_flower' + cat.accessory + cat_sprite], (0, 0))
