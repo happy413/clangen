@@ -427,12 +427,12 @@
 "BROWN SNAIL" : {
     "default": "brown-shelled snail",
     "plural": "snails with brown shells",
-    "singular": "snail with a brown shell"
+    "singular": "brown-shelled snail"
 },
 "RED SNAIL" : {
     "default": "red-shelled snail",
     "plural": "snails with red shells",
-    "singular": "snail with a red shell"
+    "singular": "red-shelled snail"
 },
 "WORM" : {
     "default": "worm friend",
@@ -473,7 +473,7 @@
 "BLUE SNAIL": {
     "default": "blue-shelled snail",
     "plural": "snails with blue shells",
-    "singular": "snail with a blue shell"
+    "singular": "blue-shelled snail"
 },
 "DIANTHUS": {
     "default": "pink dianthus",
@@ -513,27 +513,27 @@
 "ROSY MAPLE MOTH": {
     "default": "rosy maple moth wings",
     "plural": "rosy maple moth wings",
-    "singular": "a pair of rose maple moth wings"
+    "singular": "pair of rose maple moth wings"
 },
 "MONARCH BUTTERFLY": {
     "default": "monarch butterfly wings",
     "plural": "monarch butterfly wings",
-    "singular": "a pair of monarch butterfly wings"
+    "singular": "pair of monarch butterfly wings"
 },
 "DAPPLED MONARCH": {
     "default": "dappled monarch butterfly wings",
     "plural": "dappled monarch butterfly wings",
-    "singular": "a pair of dapplaed monarch wings"
+    "singular": "pair of dapplaed monarch wings"
 },
 "POLYPHEMUS MOTH": {
     "default": "polyphemus moth wings",
     "plural": "polyphemus moth wings",
-    "singular": "a pair of polyphemus moth wings"
+    "singular": "pair of polyphemus moth wings"
 },
 "MINT MOTH": {
     "default": "mint moth wings",
     "plural": "mint moth wings",
-    "singular": "a pair of mint moth wings"
+    "singular": "pair of mint moth wings"
 },
 "ZEBRA ISOPOD": {
     "default": "zebra isopod friend",
@@ -562,7 +562,7 @@
 },
 "RASPBERRY": {
     "default": "raspberry",
-    "plural": "a patch of raspberries",
+    "plural": "raspberries",
     "singular": "raspberry"
 },
 "BLUEBERRY": {
