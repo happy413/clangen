@@ -32,6 +32,15 @@ from scripts.cat.pelts import (
     plant_accessories,
     wild_accessories,
     collars,
+    flower_accessories,
+    plant2_accessories,
+    smallAnimal_accessories,
+    fruit_accessories,
+    deadInsect_accessories,
+    aliveInsect_accessories,
+    crafted_accessories,
+    tail2_accessories,
+    snake_accessories
 )
 from scripts.game_structure.game_essentials import game, screen_x, screen_y
 
