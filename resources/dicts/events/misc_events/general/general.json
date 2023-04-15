@@ -637,5 +637,25 @@
       "other_cat_trait": null,
       "other_cat_skill": null,
       "accessories": ["BLACKBIRD", "ROBIN", "JAY", "THRUSH", "CARDINAL", "MAGPIE", "CUBAN TROGON"]
-}
+},
+            {
+        "camp": "any",
+        "tags": ["other_cat", "to_both", "platonic", "comfort", "neg_dislike", "neg_jealousy", "Newleaf", "Greenleaf", "Leaf-fall", "Leaf-bare"],
+        "event_text": "r_c and m_c find a weirdly friendly acc_singular! m_c decides to keep it as a pet.",
+        "cat_trait": null,
+        "cat_skill": null,
+        "other_cat_trait": null,
+        "other_cat_skill": null,
+        "accessories": ["RED SQUIRREL", "GRAY SQUIRREL", "INDIAN GIANT SQUIRREL"]
+    },
+    {
+        "camp": "any",
+        "tags": ["Greenleaf", "Leaf-fall"],
+        "event_text": "m_c finds weirdly friendly acc_singular! m_c decides to keep it as a pet.",
+        "cat_trait": null,
+        "cat_skill": null,
+        "other_cat_trait": null,
+        "other_cat_skill": null,
+        "accessories": ["RED SQUIRREL", "GRAY SQUIRREL", "INDIAN GIANT SQUIRREL"]
+    }
 ]
