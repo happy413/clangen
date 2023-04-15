@@ -38,5 +38,25 @@
         "other_cat_trait": null,
         "other_cat_skill": null,
         "accessories": ["SEAWEED"]
-    }
+    },
+              {
+        "camp": "any",
+        "tags": ["Newleaf", "Greenleaf", "Leaf-fall", "Leaf-bare"],
+        "event_text": "m_c catches a cool snail that slid into camp! {PRONOUN/m_c/subject/CAP} {VERB/m_c/decides/decide} to keep the snail.",
+        "cat_trait": null,
+        "cat_skill": null,
+        "other_cat_trait": null,
+        "other_cat_skill": null,
+        "accessories": ["RED SNAIL"]
+    },
+        {
+        "camp": "any",
+        "tags": ["other_cat", "other_cat", "to_both", "platonic", "comfort", "neg_dislike", "neg_jealousy", "Newleaf", "Greenleaf", "Leaf-fall", "Leaf-bare"],
+        "event_text": "r_c and m_c find a cute snail with a red, pointy snail while hanging out in camp together! m_c decides to keep it with {PRONOUN/m_c/object}.",
+        "cat_trait": null,
+        "cat_skill": null,
+        "other_cat_trait": null,
+        "other_cat_skill": null,
+        "accessories": ["RED SNAIL"]
+        }
 ]
