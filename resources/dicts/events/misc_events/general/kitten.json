@@ -170,8 +170,8 @@
     },
    {
         "camp": "any",
-        "tags": ["Newleaf", "Greenleaf", "other_cat_kit", "platonic"],
-        "event_text": "m_c, inbetween playfighting with r_c, collects scraps of daisies that sometimes get stuck in r_c's pelt. After quite a while, m_c {VERB/m_c/craft/crafts} a daisy corsage for {PRONOUN/m_c/object} tail!",
+        "tags": ["Newleaf", "Greenleaf", "other_cat", "other_cat_kit"],
+        "event_text": "m_c, inbetween playfighting with r_c, collects scraps of daisies that sometimes get stuck in r_c's pelt. After quite a while, m_c {VERB/m_c/crafts/craft} a daisy corsage for {PRONOUN/m_c/poss} tail!",
         "cat_trait": null,
         "cat_skill": null,
         "other_cat_trait": null,
