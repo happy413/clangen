@@ -1,2 +1,42 @@
 [
+{
+        "camp": "any",
+        "tags": ["Newleaf", "Greenleaf"],
+        "event_text": "m_c found a small little patch of bright yellow flowers in camp, and snagged one to decorate {PRONOUN/m_c/self} with!",
+        "cat_trait": null,
+        "cat_skill": null,
+        "other_cat_trait": null,
+        "other_cat_skill": null,
+        "accessories": ["YELLOW PRIMROSE"]
+    },
+           {
+        "camp": "any",
+        "tags": ["other_cat", "to_both", "platonic", "comfort", "neg_dislike", "neg_jealousy", "Newleaf", "Greenleaf"],
+        "event_text": "r_c takes m_c by surprise, swiftly decorating m_c with pretty yellow blooms. Bewildered, m_c thanks {PRONOUN/r_c/object} for the gift.",
+        "cat_trait": null,
+        "cat_skill": null,
+        "other_cat_trait": null,
+        "other_cat_skill": null,
+        "accessories": ["YELLOW PRIMROSE"]
+    },
+  {
+        "camp": "any",
+        "tags": ["Newleaf", "Greenleaf"],
+        "event_text": "m_c purrs as {PRONOUN/m_c/subject} {VERB/m_c/stretch/stretches} smugly in the middle of camp, showing off the new purple blooms that decorate {PRONOUN/m_c/poss} pelt.",
+        "cat_trait": null,
+        "cat_skill": null,
+        "other_cat_trait": null,
+        "other_cat_skill": null,
+        "accessories": ["HESPERIS"]
+    },
+           {
+        "camp": "any",
+        "tags": ["other_cat", "to_both", "platonic", "comfort", "neg_dislike", "neg_jealousy", "Newleaf", "Greenleaf"],
+        "event_text": "r_c, inbetween grooming m_c, gently dots m_c's fur with shades of purple flowers during a low sunset.",
+        "cat_trait": null,
+        "cat_skill": null,
+        "other_cat_trait": null,
+        "other_cat_skill": null,
+        "accessories": ["HESPERIS"]
+    }
 ]
