@@ -15,7 +15,7 @@
         "cat_trait": null,
         "cat_skill": null,
         "other_cat_trait": null,
-        "other_cat_skill": null
+        "other_cat_skill": null,
         "accessories": ["FLOWER", "PLANT", "FRUIT", "PLANT2"]
       },
       {
@@ -158,7 +158,7 @@
       "cat_trait": null,
       "cat_skill": null,
       "other_cat_trait": null,
-      "other_cat_skill": null
+      "other_cat_skill": null,
       "accessories": ["COLLAR"]
   },
   {
