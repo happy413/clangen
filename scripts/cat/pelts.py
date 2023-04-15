@@ -317,7 +317,7 @@ smallAnimal_accessories = ["GRAY SQURRIEL", "RED SQUIRREL", "CRAB", "WHITE RABBI
                            "TAN VITILIGO RABBIT", "RAT"
                     ]
 
-deadInsect_accessories = ["LUNAR MOTH", "ROSY MAPLE MOTH", "MONARCH BUTTERFLY", "DAPPLED MONARCH,"
+deadInsect_accessories = ["LUNAR MOTH", "ROSY MAPLE MOTH", "MONARCH BUTTERFLY", "DAPPLED MONARCH",
                       "POLYPHEMUS MOTH", "MINT MOTH"
                     ]
 
