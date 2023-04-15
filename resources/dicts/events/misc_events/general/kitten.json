@@ -157,7 +157,7 @@
         "cat_skill": null,
         "other_cat_trait": null,
         "other_cat_skill": null
-    }
+    },
        {
         "camp": "any",
         "tags": ["other_cat", "to_both", "platonic", "comfort", "neg_dislike", "neg_jealousy", "Newleaf", "Greenleaf", "Leaf-fall", "Leaf-bare"],
@@ -260,8 +260,8 @@
     },
         {
         "camp": "any",
-        "tags": ["other_cat", "to_both", "platonic", "comfort", "neg_dislike", "neg_jealousy", "Newleaf","Greenleaf", "Leaf-bare", "Leaf-fall"],
-        "event_text": "m_c yaps and yowls about wanting to hunt and catch birds to r_c! The poor cat, after a full day of m_c's yapping, gifts m_c a leftover bird skull to hold {PRONOUN/m_c/poss} off until {PRONOUN/m_c/poss} apprenticeship.",
+        "tags": ["other_cat_warrior", "to_both", "platonic", "comfort", "neg_dislike", "neg_jealousy", "Newleaf","Greenleaf", "Leaf-bare", "Leaf-fall"],
+        "event_text": "m_c yaps and yowls about wanting to hunt and catch birds with r_c! Poor r_c, after a full day of m_c's yapping, gifts m_c a leftover bird skull to hold {PRONOUN/m_c/poss} off until {PRONOUN/m_c/poss} apprenticeship.",
         "cat_trait": ["bouncy", "noisy", "daring", "charming", "inquisitive", "troublesome"],
         "cat_skill": null,
         "other_cat_trait": null,
@@ -272,11 +272,20 @@
         "camp": "any",
         "tags": ["other_cat", "to_both", "platonic", "comfort", "neg_dislike", "neg_jealousy", "Newleaf","Greenleaf", "Leaf-bare", "Leaf-fall"],
         "event_text": "m_c, in an act of pure morbid curiousity, pokes around in the fresh kill pile. {PRONOUN/m_c/subject/CAP} {VERB/m_c/manages/manage} to scavenge a whole bird skull! Gross! r_c helps {PRONOUN/m_c/object} wash it and properly clean it before m_c wears it around camp.",
-        "cat_trait": ["bouncy", "inquisitive", "troublesome", "daring", "impulsive"],
+        "cat_trait": null,
         "cat_skill": null,
         "other_cat_trait": null,
         "other_cat_skill": null,
         "accessories": ["BIRD SKULL"]
     },
-
+        {
+        "camp": "any",
+        "tags": ["other_cat_elder", "to_both", "platonic", "comfort", "neg_dislike", "neg_jealousy", "Newleaf","Greenleaf", "Leaf-bare", "Leaf-fall"],
+        "event_text": "m_c naps on the side of r_c's belly. {PRONOUN/r_c/subject/CAP} {VERB/r_c/huff/huffs} quietly at the little snoring kitten, and {VERB/r_c/begin/begins} to gently clean {PRONOUN/m_c/poss} fur... only to find acc_singular!? What in the world has m_c been getting into?" ,
+        "cat_trait": null,
+        "cat_skill": null,
+        "other_cat_trait": null,
+        "other_cat_skill": null,
+        "accessories": ["WILD", "HESPERIS", "PETALS", "DRY HERBS", "HERBS"]
+    }
 ]
