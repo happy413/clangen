@@ -1,4 +1,4 @@
-[
+[   
    {
         "camp": "any",
         "tags": ["Newleaf", "Greenleaf", "Leaf-fall", "Leaf-bare"],
@@ -38,5 +38,5 @@
         "other_cat_trait": null,
         "other_cat_skill": null,
         "accessories": ["WESTERN COACHWHIP"]
-    },
+    }
 ]
