@@ -1,6 +1,5 @@
 [
-/// these are the same as warrior patrols
-    {
+  {
         "camp": "any",
         "tags": ["Newleaf", "Greenleaf", "Leaf-fall", "Leaf-bare"],
         "event_text": "m_c grumbles incoherently as {PRONOUN/m_c/subject} {VERB/m_c/trudge/trudges} back to camp, soaked and with {PRONOUN/m_c/poss} tail knotted and wrapped with seaweed. Poor m_c.",
@@ -9,16 +8,6 @@
         "other_cat_trait": null,
         "other_cat_skill": null,
         "accessories": ["SEAWEED"]
-    },
-    {
-        "camp": "any",
-        "tags": ["Newleaf", "Greenleaf", "Leaf-fall", "Leaf-bare"],
-        "event_text": "m_c disappears for a while, and comes back to camp with a snake wrapped around {PRONOUN/m_c/poss} pelt. {PRONOUN/m_c/subject/CAP} laugh at {PRONOUN/m_c/poss} clanmates expressions, and talks of how the thing is safe and friendly.",
-        "cat_trait": ["bold", "adventurous", "careful", "confident", "daring", "ambitious", "strange", "charismatic"],
-        "cat_skill": null,
-        "other_cat_trait": null,
-        "other_cat_skill": null,
-        "accessories": ["GRASS SNAKE"]
     },
    {
         "camp": "any",
