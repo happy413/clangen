@@ -528,5 +528,15 @@
         "cat_skill": null,
         "other_cat_trait": null,
         "other_cat_skill": null
-    }
+    },
+    {
+      "camp": "any",
+      "tags": ["other_cat", "other_cat", "Newleaf", "Greenleaf", "Leaf-fall", "to_both", "platonic", "trust", "comfort", "neg_dislike"],
+      "event_text": "m_c and r_c sneak out of camp to go bird watching. Seems like one of the birds decided to stick around m_c after they attempt to leave!",
+      "cat_trait": null,
+      "cat_skill": null,
+      "other_cat_trait": null,
+      "other_cat_skill": null,
+      "accessories": ["BLACKBIRD", "ROBIN", "JAY", "THRUSH", "CARDINAL", "MAGPIE", "CUBAN TROGON"]
+}
 ]
