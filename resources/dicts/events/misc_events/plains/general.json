@@ -38,5 +38,25 @@
         "other_cat_trait": null,
         "other_cat_skill": null,
         "accessories": ["HESPERIS"]
+    },
+          {
+        "camp": "any",
+        "tags": ["Greenleaf", "Leaf-fall"],
+        "event_text": "m_c plucks a few marigolds from a nearby flower patch. {PRONOUN/m_c/subject} {VERB/m_c/wears/wear} it with poise.",
+        "cat_trait": null,
+        "cat_skill": null,
+        "other_cat_trait": null,
+        "other_cat_skill": null,
+        "accessories": ["MARIGOLD"]
+    },
+           {
+        "camp": "any",
+        "tags": ["other_cat_adult", "to_both", "platonic", "romantic", "comfort", "neg_dislike", "neg_jealousy", "Newleaf", "Greenleaf"],
+        "event_text": "r_c, inbetween grooming m_c, tucks marigolds next to m_c's ear. m_c almost doesn't notice the next morning, and purrs a thank you to r_c when {PRONOUN/r_c/subject} {VERB/r_c/walk/walks} by.",
+        "cat_trait": null,
+        "cat_skill": null,
+        "other_cat_trait": null,
+        "other_cat_skill": null,
+        "accessories": ["MARIGOLD"]
     }
 ]
