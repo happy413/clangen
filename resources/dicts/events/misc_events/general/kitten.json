@@ -160,7 +160,7 @@
     },
        {
         "camp": "any",
-        "tags": ["other_cat", "to_both", "platonic", "comfort", "neg_dislike", "neg_jealousy", "Newleaf", "Greenleaf", "Leaf-fall", "Leaf-bare"],
+        "tags": ["other_cat", "other_cat_adult", "to_both", "platonic", "comfort", "neg_dislike", "neg_jealousy", "Newleaf", "Greenleaf", "Leaf-fall", "Leaf-bare"],
         "event_text": "m_c received a present, gently weaved acc_plural, from r_c and decided to keep it with {PRONOUN/m_c/object} on {PRONOUN/m_c/poss} tail.",
         "cat_trait": null,
         "cat_skill": null,
@@ -170,7 +170,7 @@
     },
    {
         "camp": "any",
-        "tags": ["Newleaf", "Greenleaf", "other_cat"],
+        "tags": ["Newleaf", "Greenleaf", "other_cat_kit", "platonic"],
         "event_text": "m_c, inbetween playfighting with r_c, collects scraps of daisies that sometimes get stuck in r_c's pelt. After quite a while, m_c {VERB/m_c/craft/crafts} a daisy corsage for {PRONOUN/m_c/object} tail!",
         "cat_trait": null,
         "cat_skill": null,
@@ -180,7 +180,7 @@
     },
     {
         "camp": "any",
-        "tags": ["other_cat", "to_both", "platonic", "comfort", "neg_dislike", "neg_jealousy", "Newleaf", "Greenleaf", "Leaf-fall", "Leaf-bare"],
+        "tags": ["other_cat", "other_cat_adult", "to_both", "platonic", "comfort", "neg_dislike", "neg_jealousy", "Newleaf", "Greenleaf", "Leaf-fall", "Leaf-bare"],
         "event_text": "r_c ducks {PRONOUN/r_c/poss} head under the nursery's entrance, and offers m_c a flower to play with! m_c snatches it and tucks it next to {PRONOUN/m_c/poss} ear. m_c smugly flaunts it to anyone who asks about it.",
         "cat_trait": null,
         "cat_skill": null,
@@ -190,7 +190,7 @@
     },
     {
         "camp": "any",
-        "tags": ["other_cat", "to_both", "platonic", "comfort", "neg_dislike", "neg_jealousy", "Newleaf", "Greenleaf", "Leaf-fall", "Leaf-bare"],
+        "tags": ["other_cat", "other_cat_adult", "to_both", "platonic", "comfort", "neg_dislike", "neg_jealousy", "Newleaf", "Greenleaf", "Leaf-fall", "Leaf-bare"],
         "event_text": "m_c begs r_c to get {PRONOUN/m_c/object} something from outside of the camp, yapping about wanting to go on patrol like r_c does! r_c caves, rolling {PRONOUN/r_c/poss} eyes, and brings m_c a pretty flower {PRONOUN/r_c/subject} managed to find.",
         "cat_trait": null,
         "cat_skill": null,
@@ -210,7 +210,7 @@
     },
     {
         "camp": "any",
-        "tags": ["other_cat", "to_both", "platonic", "comfort", "neg_dislike", "neg_jealousy", "Newleaf", "Greenleaf", "Leaf-fall", "Leaf-bare"],
+        "tags": ["other_cat", "other_cat_adult", "to_both", "platonic", "comfort", "neg_dislike", "neg_jealousy", "Newleaf", "Greenleaf", "Leaf-fall", "Leaf-bare"],
         "event_text": "r_c finds a pretty, smelly field of onions with pretty pink blooms. Figuring that m_c would probably play with the stinky thing, r_c takes it home! m_c wears it instead, and promptly brags about {PRONOUN/m_c/poss} new accessory to anyone who'll listen.",
         "cat_trait": null,
         "cat_skill": null,
@@ -230,7 +230,17 @@
     },
     {
         "camp": "any",
-        "tags": ["other_cat", "to_both", "platonic", "comfort", "neg_dislike", "neg_jealousy", "Newleaf", "Greenleaf", "Leaf-fall", "Leaf-bare"],
+        "tags": ["other_cat", "other_cat_adult", "to_both", "platonic", "comfort", "neg_dislike", "neg_jealousy", "Newleaf", "Greenleaf", "Leaf-fall", "Leaf-bare"],
+        "event_text": "r_c finds a patch of odd red orchids. {PRONOUN/r_c/subject/CAP} decide to take a pair of it's prettiest blooms to use for a gift to give to m_c! m_c prompty brags to anyone nearby about {PRONOUN/m_c/poss} new accessory, with r_c rolling {PRONOUN/r_c/poss} eyes at {PRONOUN/m_c/poss} antics.",
+        "cat_trait": null,
+        "cat_skill": null,
+        "other_cat_trait": null,
+        "other_cat_skill": null,
+        "accessories": ["LACELEAF"]
+    },
+        {
+        "camp": "any",
+        "tags": ["other_cat", "other_cat_app", "to_both", "platonic", "comfort", "neg_dislike", "neg_jealousy", "Newleaf", "Greenleaf", "Leaf-fall", "Leaf-bare"],
         "event_text": "r_c finds a patch of odd red orchids. {PRONOUN/r_c/subject/CAP} decide to take a pair of it's prettiest blooms to use for a gift to give to m_c! m_c prompty brags to anyone nearby about {PRONOUN/m_c/poss} new accessory, with r_c rolling {PRONOUN/r_c/poss} eyes at {PRONOUN/m_c/poss} antics.",
         "cat_trait": null,
         "cat_skill": null,
@@ -240,7 +250,17 @@
     },
     {
         "camp": "any",
-        "tags": ["other_cat", "to_both", "platonic", "comfort", "neg_dislike", "neg_jealousy", "Newleaf","Greenleaf", "Leaf-bare", "Leaf-fall"],
+        "tags": ["other_cat", "other_cat_adult", "to_both", "platonic", "comfort", "neg_dislike", "neg_jealousy", "Newleaf","Greenleaf", "Leaf-bare", "Leaf-fall"],
+        "event_text": "m_c tilts {PRONOUN/m_c/poss} head at the camp wall. Nobody's entirely sure why until r_c asks, amused. m_c tells r_c that {PRONOUN/m_c/subject} {VERB/m_c/wants/want} to wear the pretty ivy leaves growing on the camp's walls. r_c chuckles, and cuts a pair of leaves off for m_c to wear.",
+        "cat_trait": null,
+        "cat_skill": null,
+        "other_cat_trait": null,
+        "other_cat_skill": null,
+        "accessories": ["IVY"]
+    },
+        {
+        "camp": "any",
+        "tags": ["other_cat", "other_cat_app", "to_both", "platonic", "comfort", "neg_dislike", "neg_jealousy", "Newleaf","Greenleaf", "Leaf-bare", "Leaf-fall"],
         "event_text": "m_c tilts {PRONOUN/m_c/poss} head at the camp wall. Nobody's entirely sure why until r_c asks, amused. m_c tells r_c that {PRONOUN/m_c/subject} {VERB/m_c/wants/want} to wear the pretty ivy leaves growing on the camp's walls. r_c chuckles, and cuts a pair of leaves off for m_c to wear.",
         "cat_trait": null,
         "cat_skill": null,
@@ -260,7 +280,7 @@
     },
         {
         "camp": "any",
-        "tags": ["other_cat_warrior", "to_both", "platonic", "comfort", "neg_dislike", "neg_jealousy", "Newleaf","Greenleaf", "Leaf-bare", "Leaf-fall"],
+        "tags": ["other_cat_adult", "to_both", "platonic", "comfort", "neg_dislike", "neg_jealousy", "Newleaf","Greenleaf", "Leaf-bare", "Leaf-fall"],
         "event_text": "m_c yaps and yowls about wanting to hunt and catch birds with r_c! Poor r_c, after a full day of m_c's yapping, gifts m_c a leftover bird skull to hold {PRONOUN/m_c/poss} off until {PRONOUN/m_c/poss} apprenticeship.",
         "cat_trait": ["bouncy", "noisy", "daring", "charming", "inquisitive", "troublesome"],
         "cat_skill": null,
