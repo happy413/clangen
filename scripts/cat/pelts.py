@@ -309,7 +309,7 @@ snake_accessories = ["GRASS SNAKE", "BLUE RACER", "WESTERN COACHWHIP"
                      
                      ]
 
-smallAnimal_accessories = ["GRAY SQURRIEL", "RED SQUIRREL", "CRAB", "WHITE RABBIT", "BLACK RABBIT",
+smallAnimal_accessories = ["GRAY SQUIRREL", "RED SQUIRREL", "CRAB", "WHITE RABBIT", "BLACK RABBIT",
                            "BROWN RABBIT", "INDIAN GIANT SQUIRREL", "FAWN RABBIT",
                            "BROWN AND WHITE RABBIT", "BLACK AND WHITE RABBIT", "WHITE AND FAWN RABBIT", "BLACK VITILIGO RABBIT",
                            "BROWN VITILIGO RABBIT", "FAWN VITILIGO RABBIT", "BLACKBIRD", "ROBIN",
