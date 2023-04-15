@@ -194,7 +194,7 @@ class Sprites():
             sprites.make_group('snake_accessories', (a, 0), f'acc_snake{i}')
             
         for a, i in enumerate([
-            "GRAY SQURRIEL", "RED SQUIRREL", "CRAB", "WHITE RABBIT", "BLACK RABBIT", "BROWN RABBIT", "INDIAN GIANT SQUIRREL", "FAWN RABBIT", "BROWN AND WHITE RABBIT", "BLACK AND WHITE RABBIT"]):
+            "GRAY SQUIRREL", "RED SQUIRREL", "CRAB", "WHITE RABBIT", "BLACK RABBIT", "BROWN RABBIT", "INDIAN GIANT SQUIRREL", "FAWN RABBIT", "BROWN AND WHITE RABBIT", "BLACK AND WHITE RABBIT"]):
             sprites.make_group('smallAnimal_accessories', (a, 0), f'acc_smallAnimal{i}')
         for a, i in enumerate([
             "WHITE AND FAWN RABBIT", "BLACK VITILIGO  RABBIT", "BROWN VITILIGO RABBIT", "FAWN VITILIGO RABBIT", "BLACKBIRD", "ROBIN", "JAY", "THRUSH", "CARDINAL", "MAGPIE"]):
