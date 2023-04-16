@@ -1,3 +1,22 @@
 [
-
+        {
+        "camp": "any",
+        "tags": ["other_cat", "other_cat_warrior", "to_both", "dislike", "Newleaf","Greenleaf", "Leaf-bare", "Leaf-fall"],
+        "event_text": "r_c spots acc_singular near camp. Before r_c can rip {PRONOUN/r_c/poss} way through camp and to the acc_singular, m_c stops {PRONOUN/r_c/object} and tells {PRONOUN/r_c/object} that {PRONOUN/m_c/subject} {VERB/m_c/want/wants} it as a pet. r_c opens {PRONOUN/r_c/poss} mouth to <i>hiss</i> at m_c, but the kit bounds over to the acc_singular. Guess it's too late to catch it...",
+        "cat_trait": null,
+        "cat_skill": null,
+        "other_cat_trait": ["ambitious", "bloodthirsty", "cold", "fierce", "shameless", "strict", "troublesome", "vengeful", "righteous"],
+        "other_cat_skill": null,
+        "accessories": ["WHITE RABBIT", "BLACK RABBIT", "BROWN RABBIT", "FAWN RABBIT", "BROWN AND WHITE RABBIT", "BLACK AND WHITE RABBIT", "WHITE AND FAWN RABBIT", "BLACK VITILIGO RABBIT", "BROWN VITILIGO RABBIT", "FAWN VITILIGO RABBIT", "TAN RABBIT", "TAN AND WHITE RABBIT", "TAN VITILIGO RABBIT"]
+    },
+          {
+        "camp": "any",
+        "tags": ["Newleaf","Greenleaf", "Leaf-bare", "Leaf-fall", "other_cat"],
+        "event_text": "m_c eyes a pink-nosed rat that wondered into the nursery. Before r_c can even think about stopping {PRONOUN/m_c/object}, m_c befriends the weird little thing with a piece of grass.",
+        "cat_trait": null,
+        "cat_skill": null,
+        "other_cat_trait": null,
+        "other_cat_skill": null,
+        "accessories": ["RAT"]
+    }
 ]
