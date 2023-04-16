@@ -1,5 +1,8 @@
 <strong>v1.0</strong>
 FIRST RELEASE !!!
-thank you for playing !
+thank you for playing !!!!!
 - added roughly 68 accessories into the game
 - added roughly 136 events to go along with them =3
+- changed and edited menu to show trinketclink, the mod's mascot
+- increased chance of a cat gaining an accessory (150 -> 100)
+(you can change this in game_config.json with a json editor like vscode!)
