@@ -356,7 +356,7 @@
      {
         "camp": "any",
         "tags": ["Newleaf", "Greenleaf", "Leaf-fall", "Leaf-bare"],
-        "event_text": "m_c wonders out on {PRONOUN/m_c/poss} own on a odd day, and comes back with a acc_singular! m_c flaunts their new acc_singular with grace.",
+        "event_text": "m_c wonders out on {PRONOUN/m_c/poss} own on a odd day, and comes back with a fruity smelling acc_singular! m_c flaunts their new acc_singular with grace.",
         "cat_trait": null,
         "cat_skill": null,
         "other_cat_trait": null,
@@ -392,6 +392,16 @@
         "other_cat_trait": null,
         "other_cat_skill": null,
         "accessories": ["WILD", "PLANT", "FLOWER", "DEADINSECT", "PLANT2"]
+    },
+        {
+        "camp": "any",
+        "tags": ["ceremony", "other_cat_app", "to_both", "platonic", "comfort", "neg_dislike", "Newleaf", "Greenleaf", "Leaf-fall", "Leaf-bare"],
+        "event_text": "r_c tells m_c that {PRONOUN/m_c/subject} {VERB/m_c/have/has} been waiting for this day for ages... and prepared a pretty new accessory for them to wear.",
+        "cat_trait": null,
+        "cat_skill": null,
+        "other_cat_trait": null,
+        "other_cat_skill": null,
+        "accessories": ["FLOWER", "DEADINSECT", "PLANT2", "FRUIT", "BIRD SKULL"]
     },
     {
         "camp": "any",
