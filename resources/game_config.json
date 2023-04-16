@@ -247,7 +247,7 @@
 		"random_point_chance": 6
 	},
 	"accessory_generation": {
-		"base_acc_chance": 100,
+		"base_acc_chance": 150,
 		"med_modifier": -80,
 		"baby_modifier": -20,
 		"elder_modifier": 20,
@@ -341,8 +341,6 @@
 		"all_cats_are_newborn": false,
 		"newborns_can_roam": false,
 		"newborns_can_patrol": false
-	}
-}
 	},
 	"lock_season": false, 
 	"comment": "Forces the season to be locked at the clan's starting_season"
