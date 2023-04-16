@@ -204,7 +204,7 @@ class Sprites():
             sprites.make_group('smallAnimal_accessories', (a, 2), f'acc_smallAnimal{i}')
             
         for a, i in enumerate([
-            "LUNAR MOTH", "ROSY MAPLE MOTH", "MONARCH BUTTERFLY", "DAPPLED MONARCH,", "POLYPHEMUS MOTH", "MINT MOTH"]):
+            "LUNAR MOTH", "ROSY MAPLE MOTH", "MONARCH BUTTERFLY", "DAPPLED MONARCH", "POLYPHEMUS MOTH", "MINT MOTH"]):
             sprites.make_group('deadInsect_accessories', (a, 0), f'acc_deadInsect{i}')
             
         for a, i in enumerate([
