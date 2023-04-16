@@ -79,4 +79,24 @@
         "other_cat_skill": null,
         "accessories": ["STICK"]
            }
+                     {
+        "camp": "any",
+        "tags": ["Newleaf", "Greenleaf"],
+        "event_text": "m_c spots colections and clusters of gorgeous pink flowers, and decides to wear one of them!",
+        "cat_trait": null,
+        "cat_skill": null,
+        "other_cat_trait": null,
+        "other_cat_skill": null,
+        "accessories": ["PINK DIANTHUS"]
+    },
+           {
+        "camp": "any",
+        "tags": ["other_cat", "to_both", "platonic", "comfort", "neg_dislike", "neg_jealousy", "Newleaf", "Greenleaf"],
+        "event_text": "r_c offers m_c a flower {PRONOUN/r_c/subject} found near camp, telling m_c that {PRONOUN/r_c/subject} thought that it'd look better on m_c than on {PRONOUN/r_c/self}.",
+        "cat_trait": null,
+        "cat_skill": null,
+        "other_cat_trait": null,
+        "other_cat_skill": null,
+        "accessories": ["PINK DIANTHUS"]
+           }
 ]
