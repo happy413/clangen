@@ -498,7 +498,7 @@
         {
         "camp": "any",
         "tags": ["other_cat", "other_cat_adult", "to_both", "platonic", "trust", "comfort", "neg_dislike", "Newleaf", "Greenleaf", "Leaf-fall", "Leaf-bare"],
-        "event_text": "m_c proudly shows off something that {PRONOUN/m_c/subject} {VERB/m_c/have/has} been working on for the past new days -- a perfectly crafted acc_singular! {PRONOUN/m_c/subject/CAP} {VERB/m_c/decides/decide} to wear it, and {PRONOUN/m_c/subject} do so proudly.",
+        "event_text": "m_c proudly shows off something that {PRONOUN/m_c/subject} {VERB/m_c/have/has} been working on for the past new days -- a perfectly crafted acc_singular! {PRONOUN/m_c/subject/CAP} {VERB/m_c/decide/decides} to wear it, and {PRONOUN/m_c/subject} do so proudly.",
         "cat_trait": null,
         "cat_skill": null,
         "other_cat_trait": null,
@@ -508,7 +508,7 @@
             {
         "camp": "any",
         "tags": ["other_cat", "other_cat_adult", "to_both", "platonic", "trust", "comfort", "neg_dislike", "Newleaf", "Greenleaf", "Leaf-fall", "Leaf-bare"],
-        "event_text": "r_c proudly shows off something that {PRONOUN/r_c/subject} {VERB/r_c/have/has} been working on for the past new days -- a perfectly crafted acc_singular, made as a gift for m_c! {PRONOUN/m_c/subject/CAP} {VERB/m_c/decides/decide} to wear it, purring softly.",
+        "event_text": "r_c proudly shows off something that {PRONOUN/r_c/subject} {VERB/r_c/have/has} been working on for the past new days -- a perfectly crafted acc_singular, made as a gift for m_c! {PRONOUN/m_c/subject/CAP} {VERB/m_c/decide/decides} to wear it, purring softly.",
         "cat_trait": null,
         "cat_skill": null,
         "other_cat_trait": null,
