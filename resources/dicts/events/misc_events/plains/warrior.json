@@ -19,7 +19,6 @@
         "other_cat_skill": null,
         "accessories": ["WHITE RABBIT", "BLACK RABBIT", "BROWN RABBIT", "FAWN RABBIT", "BROWN AND WHITE RABBIT", "BLACK AND WHITE RABBIT", "WHITE AND FAWN RABBIT", "BLACK VITILIGO RABBIT", "BROWN VITILIGO RABBIT", "FAWN VITILIGO RABBIT", "TAN RABBIT", "TAN AND WHITE RABBIT", "TAN VITILIGO RABBIT"]
     },
-  /// this ones for apprentices
             {
         "camp": "any",
         "tags": ["other_cat", "other_cat#app", "to_both", "platonic", "comfort", "neg_dislike", "neg_jealousy", "Newleaf","Greenleaf", "Leaf-bare", "Leaf-fall"],
