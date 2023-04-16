@@ -28,5 +28,15 @@
         "other_cat_trait": null,
         "other_cat_skill": null,
         "accessories": ["SEAWEED"]
-    }
+    },
+       {
+        "camp": "any",
+        "tags": ["Newleaf", "Greenleaf", "Leaf-fall", "Leaf-bare"],
+        "event_text": "m_c grumbles incoherently as {PRONOUN/m_c/subject} {VERB/m_c/trudge/trudges} back to camp, soaked and with {PRONOUN/m_c/poss} tail knotted and wrapped with seaweed. Poor m_c.",
+        "cat_trait": null,
+        "cat_skill": null,
+        "other_cat_trait": null,
+        "other_cat_skill": null,
+        "accessories": ["SEAWEED"]
+    },
 ]
