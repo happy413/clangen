@@ -31,12 +31,63 @@
     },
         {
         "camp": "any",
-        "tags": ["other_cat", "other_cat_app", "to_both", "platonic", "comfort", "neg_dislike", "neg_jealousy", "Newleaf", "Greenleaf", "Leaf-fall", "Leaf-bare"],
+        "tags": ["other_cat", "other_cat", "to_both", "platonic", "comfort", "neg_dislike", "neg_jealousy", "Newleaf", "Greenleaf", "Leaf-fall", "Leaf-bare"],
         "event_text": "r_c and m_c go on a walk together! After a while, m_c and r_c run into a cute, slowly moving snail! m_c decides to keep it as a pet, and r_c cooes at the little thing as m_c carries it home.",
         "cat_trait": null,
         "cat_skill": null,
         "other_cat_trait": null,
         "other_cat_skill": null,
         "accessories": ["BROWN SNAIL"]
-        }
+        },
+       {
+        "camp": "any",
+        "tags": ["Newleaf", "Greenleaf", "Leaf-fall", "Leaf-bare"],
+        "event_text": "m_c trills softly as {PRONOUN/m_c/subject} eye a patch of clovers just outside of the nursery den. Suddenly, {PRONOUN/m_c/poss} eyes <i>snap</i> open with surprise -- a four leaved clover? m_c gladly snips it off and wears it proudly!",
+        "cat_trait": null,
+        "cat_skill": null,
+        "other_cat_trait": null,
+        "other_cat_skill": null,
+        "accessories": ["CLOVER"]
+    },
+        {
+        "camp": "any",
+        "tags": ["other_cat", "other_cat", "to_both", "platonic", "comfort", "neg_dislike", "neg_jealousy", "Newleaf", "Greenleaf", "Leaf-fall", "Leaf-bare"],
+        "event_text": "r_c and m_c relax together in camp as the sun hits them both perfectly. r_c cracks open an eye, and points out a peculiar <i>four</i> leaved clover in a little patch near m_c's tail! m_c's eyes brim with happiness as {PRONOUN/m_c/subject} {VERB/m_c/wear/wears} the little thing!.",
+        "cat_trait": null,
+        "cat_skill": null,
+        "other_cat_trait": null,
+        "other_cat_skill": null,
+        "accessories": ["CLOVER"]
+        },
+         {
+        "camp": "any",
+        "tags": ["Newleaf", "Greenleaf", "Leaf-fall", "Leaf-bare"],
+        "event_text": "m_c picks up some moss, and decides to carry it around with {PRONOUN/m_c/object}!",
+        "cat_trait": null,
+        "cat_skill": null,
+        "other_cat_trait": null,
+        "other_cat_skill": null,
+        "accessories": ["MOSS"]
+    },
+  {
+      "camp": "any",
+      "tags": ["other_cat", "other_cat_adult", "Newleaf", "Greenleaf", "Leaf-fall", "to_both", "platonic", "trust", "comfort", "neg_dislike"],
+      "event_text": "m_c and r_c sneak out of camp to go bird watching. Seems like one of the birds decided to stick around m_c after {PRONOUN/m_c/subject} attempt to leave!",
+      "cat_trait": null,
+      "cat_skill": null,
+      "other_cat_trait": null,
+      "other_cat_skill": null,
+      "accessories": ["BLACKBIRD", "ROBIN", "JAY", "THRUSH", "CARDINAL", "MAGPIE", "CUBAN TROGON"]
+},
+     {
+      "camp": "any",
+      "tags": ["Newleaf", "Greenleaf", "Leaf-fall"],
+      "event_text": "m_c sneaks out of camp to go bird watching. Seems like one of the birds decided to stick around m_c after {PRONOUN/m_c/subject} attempt to leave!",
+      "cat_trait": null,
+      "cat_skill": null,
+      "other_cat_trait": null,
+      "other_cat_skill": null,
+      "accessories": ["BLACKBIRD", "ROBIN", "JAY", "THRUSH", "CARDINAL", "MAGPIE", "CUBAN TROGON"]
+}
+  
 ]
