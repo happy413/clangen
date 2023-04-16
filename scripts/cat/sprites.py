@@ -212,7 +212,7 @@ class Sprites():
             sprites.make_group('aliveInsect_accessories', (a, 0), f'acc_aliveInsect{i}')
         
         for a, i in enumerate([
-            "RASPBERRY", "BLACKBERRY", "GOLDEN RASPBERRY", "CHERRIES"]):
+            "RASPBERRY", "BLACKBERRY", "GOLDEN RASPBERRY", "CHERRY"]):
             sprites.make_group('fruit_accessories', (a, 0), f'acc_fruit{i}')
         
         for a, i in enumerate([
