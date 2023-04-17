@@ -660,6 +660,11 @@
     "plural": "brown rabbits",
     "singular": "brown rabbit"
 },
+"BLACK RABBIT": {
+    "default": "black rabbit",
+    "plural": "black rabbits",
+    "singular": "black rabbit"
+},
 "CLAY AMANITA POT": {
     "default": "clay-and-mousehide amanita pot",
     "plural": "clay amanita pot",
@@ -679,11 +684,16 @@
     "default": "fawn rabbit",
     "plural": "fawn rabbits",
     "singular": "fan rabbit"
-},
+  },
 "BROWN AND WHITE RABBIT": {
     "default": "brown and white rabbit",
     "plural": "brown and white rabbits",
     "singular": "brown and white rabbit"
+},
+"BLACK AND WHITE RABBIT": {
+    "default": "black and white rabbit",
+    "plural": "brown and white rabbits",
+    "singular": "black and white rabbit"
 },
 "FAWN AND WHITE RABBIT": {
     "default": "fawn and white rabbit",
