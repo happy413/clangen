@@ -87,7 +87,7 @@
         "cat_skill": null,
         "other_cat_trait": null,
         "other_cat_skill": null,
-        "accessories": ["REED"]
+        "accessories": ["REEDS"]
     },
            {
         "camp": "any",
@@ -97,6 +97,6 @@
         "cat_skill": null,
         "other_cat_trait": null,
         "other_cat_skill": null,
-        "accessories": ["REED"]
+        "accessories": ["REEDS"]
     }
 ]
