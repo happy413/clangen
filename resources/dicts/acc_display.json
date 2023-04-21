@@ -419,6 +419,7 @@
     "plural": "indigo nylon collars",
     "singular": "indigo nylon collar"
   },
+  
   "CLOVER" : {
     "default": "clover",
     "plural": "clovers",
@@ -565,11 +566,6 @@
     "plural": "raspberries",
     "singular": "raspberry"
 },
-"BLUEBERRY": {
-    "default": "blueberry",
-    "plural": "blueberries",
-    "singular": "blueberry"
-},
 "BLACKBERRY": {
     "default": "blackberry",
     "plural": "blackberries",
@@ -585,6 +581,11 @@
     "plural": "cherries",
     "singular": "cherry"
 },
+"YEW": {
+    "default": "yew",
+    "plural": "yew",
+    "singular": "yew"
+},
 "YELLOW PRIMROSE": {
     "default": "yellow primrose",
     "plural": "yellow primroses",
@@ -594,11 +595,6 @@
     "default": "hesperis",
     "plural": "hesperis flowers",
     "singular": "hesperis"
-},
-"BIRDSKULL": {
-    "default": "birdskull",
-    "plural": "birdskulls",
-    "singular": "birdskull"
 },
 "MARIGOLD": {
     "default": "marigold",
@@ -625,11 +621,6 @@
     "plural": "red squirrels",
     "singular": "red squirrel"
 },
-"WILLOWBARK BAG": {
-    "default": "willow-bark bag",
-    "plural": "willow-bark bags",
-    "singular": "willow-bark bag"
-},
 "BEE": {
     "default": "bee friend",
     "plural": "bees",
@@ -640,20 +631,50 @@
     "plural": "crabs",
     "singular": "crab"
 },
-"WHITE RABBIT": {
-    "default": "white rabbit friend",
-    "plural": "white rabbits",
-    "singular": "white rabbit"
-},
 "ACORN": {
     "default": "acorn",
     "plural": "acorns",
     "singular": "acorn"
 },
+  "PELT MOSS": {
+    "default": "moss-covered pelt",
+    "plural": "mossy pelts",
+    "singular": "mossy pelt"
+},
+    "REED": {
+    "default": "reeds in nest",
+    "plural": "reeds",
+    "singular": "reed"
+},
+    "BAMBOO": {
+    "default": "bamboo in nest",
+    "plural": "bamboo",
+    "singular": "bamboo"
+},
+"WILLOWBARK BAG": {
+    "default": "willow-bark bag",
+    "plural": "willow-bark bags",
+    "singular": "willow-bark bag"
+},
 "CLAY DAISY POT": {
     "default": "clay-and-mousehide daisy pot",
     "plural": "clay daisy pots",
     "singular": "clay daisy pot"
+},
+"CLAY AMANITA POT": {
+    "default": "clay-and-mousehide amanita pot",
+    "plural": "clay amanita pot",
+    "singular": "clay amanita pot"
+},
+  "LEAF BOW": {
+    "default": "twisted leaf-bow",
+    "plural": "leafbows",
+    "singular": "leaf bow"
+},
+"WHITE RABBIT": {
+    "default": "white rabbit friend",
+    "plural": "white rabbits",
+    "singular": "white rabbit"
 },
 "BROWN RABBIT": {
     "default": "brown rabbit",
@@ -664,11 +685,6 @@
     "default": "black rabbit",
     "plural": "black rabbits",
     "singular": "black rabbit"
-},
-"CLAY AMANITA POT": {
-    "default": "clay-and-mousehide amanita pot",
-    "plural": "clay amanita pot",
-    "singular": "clay amanita pot"
 },
 "DAISY CORSAGE": {
     "default": "daisy tail corsage",
@@ -685,6 +701,11 @@
     "plural": "fawn rabbits",
     "singular": "fawn rabbit"
   },
+"GRAY RABBIT" : {
+    "default": "gray rabbit",
+    "plural": "gray rabbits",
+    "singular": "gray rabbit"
+},
 "BROWN AND WHITE RABBIT": {
     "default": "brown and white rabbit",
     "plural": "brown and white rabbits",
@@ -699,6 +720,11 @@
     "default": "fawn and white rabbit",
     "plural": "fawn and white rabbits",
     "singular": "fawn and white rabbit"
+},
+  "GRAY AND WHITE RABBIT" : {
+    "default": "gray and white rabbit",
+    "plural": "gray and white rabbits",
+    "singular": "gray and white rabbit"
 },
 "BLACK VITILIGO RABBIT": {
     "default": "black vitiligo rabbit",
@@ -715,55 +741,45 @@
     "plural": "fawn white-spotted rabbits",
     "singular": "fawn white-spotted rabbit"
 },
+  "GRAY VITILIGO RABBIT" : {
+  "default": "gray white-spotted rabbit",
+    "plural": "gray white-spotted rabbits",
+    "singular": "gray white-spotted rabbit"
+},
 "BLACKBIRD": {
-    "default": "blackbird",
+    "default": "blackbird friend",
     "plural": "blackbird",
     "singular": "blackbird"
 },
 "ROBIN": {
-    "default": "robin",
+    "default": "robin friend",
     "plural": "robins",
     "singular": "robin"
 },
 "JAY": {
-    "default": "jay",
+    "default": "jay friend",
     "plural": "jays",
     "singular": "jay"
 },
 "THRUSH": {
-    "default": "thrush",
+    "default": "thrush friend",
     "plural": "thrushes",
     "singular": "thrush"
 },
 "CARDINAL": {
-    "default": "cardinal",
+    "default": "cardinal friend",
     "plural": "cardinals",
     "singular": "cardinal"
 },
 "MAGPIE": {
-    "default": "magpie",
+    "default": "magpie friend",
     "plural": "magpies",
     "singular": "magpie"
 },
 "CUBAN TROGON": {
-    "default": "cuban trogon",
+    "default": "cuban trogon fried",
     "plural": "cuban trogons",
     "singular": "cuban trogon"
-},
-"TAN RABBIT": {
-    "default": "tan rabbit",
-    "plural": "tan rabbits",
-    "singular": "tan rabbit"
-},
-"TAN AND WHITE RABBIT": {
-    "default": "tan and white rabbit",
-    "plural": "tan and white rabbits",
-    "singular": "tan and white rabbit"
-},
-"TAN VITILIGO RABBIT": {
-    "default": "tan vitiligo rabbit",
-    "plural": "tan white-spotted rabbit",
-    "singular": "tan white-spotted rabbit"
 },
 "CLAY BROWNCAP POT": {
     "default": "clay-and-mousehide browncap pot",
@@ -771,24 +787,44 @@
     "singular": "clay-and-mousehide browncap pot"
 },
 "DUCKY ISOPOD": {
-    "default": "ducky isopod",
+    "default": "ducky isopod friend",
     "plural": "ducky isopods",
     "singular": "ducky isopod"
 },
 "DAIRY COW ISOPOD": {
-    "default": "dairy cow isopod",
+    "default": "dairy cow isopod friend",
     "plural": "dairy cow isopods",
     "singular": "dairy cow isopod"
 },
 "BEETLEJUICE ISOPOD": {
-    "default": "beetlejuice isopod",
+    "default": "beetlejuice isopod friend",
     "plural": "beetlejuice isopods",
     "singular": "beetlejuice isopod"
 },
 "RAT": {
-    "default": "rat",
+    "default": "rat friend",
     "plural": "rats",
     "singular": "rat"
+},
+  "WHITE MOUSE": {
+    "default": "white mouse friend",
+    "plural": "white mice",
+    "singular": "white mouse"
+},
+    "GRAY MOUSE": {
+    "default": "gray mouse friend",
+    "plural": "gray mice",
+    "singular": "gray mouse"
+},
+    "BLACK MOUSE": {
+    "default": "black mouse friend",
+    "plural": "black mice",
+    "singular": "black mouse"
+},
+    "BROWN MOUSE": {
+    "default": "brown mouse friend",
+    "plural": "brown mice",
+    "singular": "brown mouse"
 },
 "BIRD SKULL":{
     "default": "bird skull",
