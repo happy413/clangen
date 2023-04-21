@@ -82,21 +82,41 @@
                      {
         "camp": "any",
         "tags": ["Newleaf", "Greenleaf"],
-        "event_text": "m_c spots colections and clusters of gorgeous pink flowers, and decides to wear one of them!",
+        "event_text": "m_c spots collections and clusters of gorgeous acc_singular, and decides to wear one of them!",
         "cat_trait": null,
         "cat_skill": null,
         "other_cat_trait": null,
         "other_cat_skill": null,
-        "accessories": ["DIANTHUS"]
+        "accessories": ["DIANTHUS", "WISTERIA"]
     },
            {
         "camp": "any",
         "tags": ["other_cat", "to_both", "platonic", "comfort", "neg_dislike", "neg_jealousy", "Newleaf", "Greenleaf"],
-        "event_text": "r_c offers m_c a flower {PRONOUN/r_c/subject} found near camp, telling m_c that {PRONOUN/r_c/subject} thought that it'd look better on m_c than on {PRONOUN/r_c/self}.",
+        "event_text": "r_c offers m_c acc_singular {PRONOUN/r_c/subject} found near camp, telling m_c that {PRONOUN/r_c/subject} thought that it'd look better on m_c than on {PRONOUN/r_c/self}.",
         "cat_trait": null,
         "cat_skill": null,
         "other_cat_trait": null,
         "other_cat_skill": null,
-        "accessories": ["DIANTHUS"]
-           }
+        "accessories": ["DIANTHUS", "WISTERIA"]
+           },
+     {
+        "camp": "any",
+        "tags": ["Newleaf", "Greenleaf", "Leaf-fall", "Leaf-bare"],
+        "event_text": "m_c wonders out on {PRONOUN/m_c/poss} own on a odd day, and comes back with a fruity smelling acc_singular! m_c flaunts their new acc_singular with grace.",
+        "cat_trait": null,
+        "cat_skill": null,
+        "other_cat_trait": null,
+        "other_cat_skill": null,
+        "accessories": ["YEW"]
+    },
+         {
+        "camp": "any",
+        "tags": ["other_cat", "other_cat_adult", "to_both", "platonic", "romantic", "comfort", "neg_dislike", "neg_jealousy", "Newleaf", "Greenleaf", "Leaf-fall", "Leaf-bare"],
+        "event_text": "r_c and m_c decide to go for a short walk together! r_c blinks in surprise, before pointing out a yew tree {PRONOUN/r_c/subject} managed to spot from a ways away! m_c tells r_c {PRONOUN/r_c/subject} {VERB/r_c/have/has} a good eye, and decides to tread over and wear the acc_singular! r_c compliments {PRONOUN/r_c/object}, and m_c grins, flustered. ",
+        "cat_trait": null,
+        "cat_skill": null,
+        "other_cat_trait": null,
+        "other_cat_skill": null,
+        "accessories": ["YEW"]
+    },
 ]
