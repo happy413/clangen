@@ -471,6 +471,11 @@
     "plural": "moss",
     "singular": "moss"
 },
+"MOSS PELT": {
+    "default": "moss pelt",
+    "plural": "moss",
+    "singular": "moss"
+},
 "BLUE SNAIL": {
     "default": "blue-shelled snail",
     "plural": "snails with blue shells",
