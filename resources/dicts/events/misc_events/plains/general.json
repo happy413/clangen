@@ -51,7 +51,7 @@
     },
            {
         "camp": "any",
-        "tags": ["other_cat_adult", "to_both", "platonic", "romantic", "comfort", "neg_dislike", "neg_jealousy", "Newleaf", "Greenleaf"],
+        "tags": ["other_cat_adult", "other_cat", "to_both", "platonic", "romantic", "comfort", "neg_dislike", "neg_jealousy", "Newleaf", "Greenleaf"],
         "event_text": "r_c, inbetween grooming m_c, tucks marigolds next to m_c's ear. m_c almost doesn't notice the next morning, and purrs a thank you to r_c when {PRONOUN/r_c/subject} {VERB/r_c/walk/walks} by.",
         "cat_trait": null,
         "cat_skill": null,
