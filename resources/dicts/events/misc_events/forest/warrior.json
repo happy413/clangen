@@ -1,3 +1,32 @@
 [
-
+     {
+        "camp": "any",
+        "tags": ["Newleaf","Greenleaf", "Leaf-bare", "Leaf-fall", "other_cat"],
+        "event_text": "m_c eyes a pink-nosed rat that wondered into the warrior's den. Before r_c can even think about stopping {PRONOUN/m_c/object}, m_c befriends the weird little thing with a piece of grass.",
+        "cat_trait": null,
+        "cat_skill": null,
+        "other_cat_trait": null,
+        "other_cat_skill": null,
+        "accessories": ["RAT"]
+    },
+          {
+        "camp": "any",
+        "tags": ["Newleaf", "Greenleaf", "Leaf-fall", "Leaf-bare"],
+        "event_text": "m_c grins toothily at a acc_singular that wondered into camp! Instead of diving toward it like anyone would expect a cat to do, m_c decides to befriend it with seeds and nuts.",
+        "cat_trait": null,
+        "cat_skill": null,
+        "other_cat_trait": null,
+        "other_cat_skill": null,
+        "accessories": ["WHITE MOUSE", "BLACK MOUSE", "GRAY MOUSE", "BROWN MOUSE"]
+    },
+        {
+        "camp": "any",
+        "tags": ["other_cat", "to_both" "dislike", "jealousy", "neg_trust", "Newleaf", "Greenleaf", "Leaf-fall", "Leaf-bare"],
+        "event_text": "r_c's eyes dilate as {PRONOUN/r_c/subject} {VERB/r_c/hunches/hunch} down to watch a mouse nibble at a fat seed! m_c stops r_c before {PRONOUN/r_c/subject} pounce, and manages to.. befriend the mouse! r_c rolls {PRONOUN/r_c/poss} eyes, grumbling about wasted food.",
+        "cat_trait": null,
+        "cat_skill": null,
+        "other_cat_trait": ["bloodthirsty", "vengeful", "cold", "fierce", "shameless", "righteous", "strange"],
+        "other_cat_skill": null,
+        "accessories": ["WHITE MOUSE", "BLACK MOUSE", "GRAY MOUSE", "BROWN MOUSE"]
+    }
 ]
