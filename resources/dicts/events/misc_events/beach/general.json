@@ -62,7 +62,7 @@
               {
         "camp": "any",
         "tags": ["Newleaf", "Greenleaf", "Leaf-fall", "Leaf-bare"],
-        "event_text": "m_c catches a cool snail that slid into camp! {PRONOUN/m_c/subject/CAP} {VERB/m_c/decides/decide} to keep the snail.",
+        "event_text": "m_c catches a cool snail that slid into camp! {PRONOUN/m_c/subject/CAP} {VERB/m_c/decide/decides} to keep the snail.",
         "cat_trait": null,
         "cat_skill": null,
         "other_cat_trait": null,
