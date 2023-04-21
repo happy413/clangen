@@ -51,7 +51,7 @@
     },
            {
         "camp": "any",
-        "tags": ["other_cat_adult", "to_both", "platonic", "comfort", "neg_dislike", "neg_jealousy", "Newleaf", "Greenleaf", "Leaf-fall", "Leaf-bare"],
+        "tags": ["other_cat_adult", "other_cat", "to_both", "platonic", "comfort", "neg_dislike", "neg_jealousy", "Newleaf", "Greenleaf", "Leaf-fall", "Leaf-bare"],
         "event_text": "r_c, during a free sunny morning before dawn patrol, quietly wraps vibrant seaweed around m_c's tail.",
         "cat_trait": null,
         "cat_skill": null,
