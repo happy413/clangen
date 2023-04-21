@@ -191,7 +191,7 @@
     },
         {
         "camp": "any",
-        "tags": ["other_cat", "to_both" "dislike", "jealousy", "neg_trust", "Newleaf", "Greenleaf", "Leaf-fall", "Leaf-bare"],
+        "tags": ["other_cat", "to_both", "dislike", "jealousy", "neg_trust", "Newleaf", "Greenleaf", "Leaf-fall", "Leaf-bare"],
         "event_text": "r_c's eyes dilate as {PRONOUN/r_c/subject} {VERB/r_c/hunches/hunch} down to watch a mouse nibble at a fat seed! m_c stops r_c before {PRONOUN/r_c/subject} pounce, and manages to.. befriend the mouse! r_c rolls {PRONOUN/r_c/poss} eyes, grumbling about wasted food.",
         "cat_trait": null,
         "cat_skill": null,
