@@ -561,6 +561,11 @@
     "plural": "purple morning glories",
     "singular": "purple morning glory"
 },
+"WISTERIA": {
+    "default": "wisteria strand",
+    "plural": "wisteria strands",
+    "singular": "wisteria strand"
+},
 "RASPBERRY": {
     "default": "raspberry",
     "plural": "raspberries",
