@@ -186,18 +186,18 @@ class Sprites():
             
             # ohdan's accessories :3
         for a, i in enumerate([
-            "CLOVER", "STICK", "PUMPKIN", "MOSS", "IVY", "ACORN",]):
+            "CLOVER", "STICK", "PUMPKIN", "MOSS", "IVY", "ACORN", "MOSS PELT", "REEDS", "BAMBOO"]):
             sprites.make_group('plant2_accessories', (a, 0), f'acc_plant2{i}')
         
         for a, i in enumerate([
             "DAISY", "DIANTHUS", "BLEEDING HEARTS", "FRANGIPANI", "BLUE GLORY", "CATNIP FLOWER", "BLANKET FLOWER", "ALLIUM", "LACELEAF", "PURPLE GLORY"]):
             sprites.make_group('flower_accessories', (a, 0), f'acc_flower{i}')
         for a, i in enumerate([
-            "YELLOW PRIMROSE", "HESPERIS", "MARIGOLD"]):
+            "YELLOW PRIMROSE", "HESPERIS", "MARIGOLD", "WISTERIA"]):
             sprites.make_group('flower_accessories', (a, 1), f'acc_flower{i}')
         
         for a, i in enumerate([
-            "GRASS SNAKE", "BLUE RACER", "WESTERN COACHWHIP"]):
+            "GRASS SNAKE", "BLUE RACER", "WESTERN COACHWHIP", "KINGSNAKE"]):
             sprites.make_group('snake_accessories', (a, 0), f'acc_snake{i}')
             
         for a, i in enumerate([
@@ -207,23 +207,29 @@ class Sprites():
             "WHITE AND FAWN RABBIT", "BLACK VITILIGO  RABBIT", "BROWN VITILIGO RABBIT", "FAWN VITILIGO RABBIT", "BLACKBIRD", "ROBIN", "JAY", "THRUSH", "CARDINAL", "MAGPIE"]):
             sprites.make_group('smallAnimal_accessories', (a, 1), f'acc_smallAnimal{i}')
         for a, i in enumerate([
-            "CUBAN TROGON", "TAN RABBIT", "TAN AND WHITE RABBIT", "TAN VITILIGO RABBIT", "RAT"]):
+            "CUBAN TROGON", "TAN RABBIT", "TAN AND WHITE RABBIT", "TAN VITILIGO RABBIT", "RAT", "WHITE MOUSE", "BLACK MOUSE", "GRAY MOUSE", "BROWN MOUSE", "GRAY RABBIT"]):
             sprites.make_group('smallAnimal_accessories', (a, 2), f'acc_smallAnimal{i}')
+        for a, i in enumerate([
+            "GRAY AND WHITE RABBIT", "GRAY VITILIGO RABBIT"]):
+            sprites.make_group('smallAnimal_accessories', (a, 3), f'acc_smallAnimal{i}')
             
         for a, i in enumerate([
             "LUNAR MOTH", "ROSY MAPLE MOTH", "MONARCH BUTTERFLY", "DAPPLED MONARCH", "POLYPHEMUS MOTH", "MINT MOTH"]):
             sprites.make_group('deadInsect_accessories', (a, 0), f'acc_deadInsect{i}')
             
         for a, i in enumerate([
-            "BROWN SNAIL", "RED SNAIL", "WORM", "BLUE SNAIL", "ZEBRA ISOPOD", "DUCKY ISOPOD", "DAIRY COW ISOPOD", "BEETLEJUICE ISOPOD", "BEE"]):
+            "BROWN SNAIL", "RED SNAIL", "WORM", "BLUE SNAIL", "ZEBRA ISOPOD", "DUCKY ISOPOD", "DAIRY COW ISOPOD", "BEETLEJUICE ISOPOD", "BEE", "RED LADYBUG"]):
             sprites.make_group('aliveInsect_accessories', (a, 0), f'acc_aliveInsect{i}')
+        for a, i in enumerate([
+            "ORANGE LADYBUG", "YELLOW LADYBUG"]):
+            sprites.make_group('aliveInsect_accessories', (a, 1), f'acc_aliveInsect{i}')
         
         for a, i in enumerate([
-            "RASPBERRY", "BLACKBERRY", "GOLDEN RASPBERRY", "CHERRY"]):
+            "RASPBERRY", "BLACKBERRY", "GOLDEN RASPBERRY", "CHERRY", "YEW"]):
             sprites.make_group('fruit_accessories', (a, 0), f'acc_fruit{i}')
         
         for a, i in enumerate([
-            "WILLOWBARK BAG", "CLAY DAISY POT", "CLAY AMANITA POT", "CLAY BROWNCAP POT", "BIRD SKULL"]):
+            "WILLOWBARK BAG", "CLAY DAISY POT", "CLAY AMANITA POT", "CLAY BROWNCAP POT", "BIRD SKULL", "LEAF BOW"]):
             sprites.make_group('crafted_accessories', (a, 0), f'acc_crafted{i}')
         
         for a, i in enumerate([
