@@ -79,6 +79,26 @@
         "other_cat_skill": null,
         "accessories": ["MOSS PELT"]
     },
+           {
+        "camp": "any",
+        "tags": ["Newleaf", "Greenleaf", "Leaf-fall", "Leaf-bare"],
+        "event_text": "m_c leaps up at a flying bug {PRONOUN/m_c/subject} found around camp, and catches it with grace! {PRONOUN/m_c/subject/CAP} {VERB/m_c/wear/wears} the acc_singular proudly.",
+        "cat_trait": null,
+        "cat_skill": null,
+        "other_cat_trait": null,
+        "other_cat_skill": null,
+        "accessories": ["DEADINSECT"]
+    },
+             {
+        "camp": "any",
+        "tags": ["other_cat", "other_cat_adult", "to_both", "platonic", "comfort", "neg_dislike", "neg_jealousy", "Newleaf", "Greenleaf", "Leaf-fall", "Leaf-bare"],
+        "event_text": "r_c <i>mrrps</i> at m_c, asking {PRONOUN/m_c/object} if {PRONOUN/m_c/subject} wanted a pair of acc_singular that {PRONOUN/r_c/subject} found. m_c says yes, and thanks {PRONOUN/r_c/object} for the cool wings!",
+        "cat_trait": null,
+        "cat_skill": null,
+        "other_cat_trait": null,
+        "other_cat_skill": null,
+        "accessories": ["DEADINSECT"]
+    },
   {
       "camp": "any",
       "tags": ["other_cat", "other_cat_adult", "Newleaf", "Greenleaf", "Leaf-fall", "to_both", "platonic", "trust", "comfort", "neg_dislike"],
