@@ -8,8 +8,8 @@
     "other_cat_trait": null,
     "other_cat_skill": null
   },
+    ///
           {
-         ///new forest events added here
         "camp": "any",
         "tags": ["Newleaf", "Greenleaf", "Leaf-fall", "Leaf-bare"],
         "event_text": "m_c comes into camp with a happy glint in {PRONOUN/m_c/poss} eye, happily sharing how m_c managed to keep a snail as {PRONOUN/m_c/poss} pet.",
