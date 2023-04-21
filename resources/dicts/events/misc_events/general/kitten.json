@@ -20,12 +20,22 @@
     {
         "camp": "any",
         "tags": ["Newleaf", "Greenleaf", "Leaf-fall", "Leaf-bare"],
-        "event_text": "m_c was playing with acc_plural earlier, and decides to wear some of them.",
+        "event_text": "m_c was playing with acc_plural earlier, and decides to keep some of them.",
         "cat_trait": null,
         "cat_skill": null,
         "other_cat_trait": null,
         "other_cat_skill": null,
         "accessories": ["RED FEATHERS", "BLUE FEATHERS", "JAY FEATHERS", "STICK", "MOSS"]
+    },
+        {
+        "camp": "any",
+        "tags": ["other_cat_parent", "other_cat", "Newleaf", "Greenleaf", "Leaf-fall", "Leaf-bare"],
+        "event_text": "m_c was playing with a big mossball earlier! Suddenly, they get a <i>wonderful</i> idea --- cover {PRONOUN/m_c/self} in moss to pretend that m_c is a mossball! r_c is aghast and horrified as they watch m_c roll around in muddy moss. ",
+        "cat_trait": null,
+        "cat_skill": null,
+        "other_cat_trait": null,
+        "other_cat_skill": null,
+        "accessories": ["MOSS PELT"]
     },
     {
         "camp": "any",
@@ -35,7 +45,7 @@
         "cat_skill": null,
         "other_cat_trait": null,
         "other_cat_skill": null,
-        "accessories": ["HERBS", "PETALS", "DRY HERBS"]
+        "accessories": ["HERBS", "PETALS", "DRY HERBS", "HESPERIS", "MOSS PELT"]
     },
     {
         "camp": "any",
@@ -187,6 +197,16 @@
         "other_cat_trait": null,
         "other_cat_skill": null,
         "accessories": ["PLANT2"]
+    },
+            {
+        "camp": "any",
+        "tags": ["other_cat", "other_cat_adult", "to_both", "platonic", "comfort", "neg_dislike", "neg_jealousy", "Newleaf", "Greenleaf", "Leaf-fall", "Leaf-bare"],
+        "event_text": "r_c weaves two leaves to make a pretty vibrant bow for m_c! m_c wears it with a bird-like chirp.",
+        "cat_trait": null,
+        "cat_skill": null,
+        "other_cat_trait": null,
+        "other_cat_skill": null,
+        "accessories": ["LEAF BOW"]
     },
     {
         "camp": "any",
