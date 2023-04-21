@@ -696,6 +696,11 @@
     "plural": "brown rabbits",
     "singular": "brown rabbit"
 },
+"TAN RABBIT": {
+    "default": "tan rabbit friend",
+    "plural": "tan rabbits",
+    "singular": "tan rabbit"
+},
 "BLACK RABBIT": {
     "default": "black rabbit",
     "plural": "black rabbits",
