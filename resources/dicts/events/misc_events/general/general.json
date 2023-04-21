@@ -123,6 +123,26 @@
         "other_cat_skill": null,
         "accessories": ["BLUE GLORY", "PURPLE GLORY"]
     },
+           {
+        "camp": "any",
+        "tags": ["Newleaf", "Greenleaf", "Leaf-fall", "Leaf-bare", "other_cat"],
+        "event_text": "m_c trudges around camp with {PRONOUN/m_c/poss} pelt somehow covered in muddy grime and moss. After being properly cleaned, m_c decides to keep the moss.",
+         "cat_trait": null,
+        "cat_skill": null,
+        "other_cat_trait": null,
+        "other_cat_skill": null,
+        "accessories": ["MOSS PELT"]
+       }, {
+        
+        "camp": "any",
+        "tags": ["other_cat", "to_both", "dislike", "Newleaf", "Greenleaf", "Leaf-fall"],
+        "event_text": "r_c, while m_c dozes off in camp, proceeds to pelt m_c with moss! m_c wakes up and snaps at r_c, but... keeps the moss on anyway. Strange.",
+        "cat_trait": null,
+        "cat_skill": null,
+        "other_cat_trait": null,
+        "other_cat_skill": null,
+        "accessories": ["MOSS PELT"]
+    },
         {
         "camp": "any",
         "tags": ["Newleaf", "Greenleaf", "Leaf-fall", "Leaf-bare"],
@@ -241,17 +261,17 @@
         "cat_skill": null,
         "other_cat_trait": null,
         "other_cat_skill": null,
-        "accessories": ["GRASS SNAKE"]
+        "accessories": ["GRASS SNAKE", "KINGSNAKE"]
     },
            {
         "camp": "any",
         "tags": ["other_cat", "other_cat_adult", "to_both", "platonic", "comfort", "neg_dislike", "neg_jealousy", "Newleaf", "Greenleaf", "Leaf-fall", "Leaf-bare"],
-        "event_text": "r_c chirps softly at m_c as {PRONOUN/r_c/subject} {VERB/r_c/walk/walks} over, and offers to show {PRONOUN/m_c/object} a cool, silly little snake {PRONOUN/r_c/subject} found! m_c takes {PRONOUN/r_c/poss} invitation. After seeing the weird, harmless thing, m_c decides to take it home with {PRONOUN/m_c/object}.",
+        "event_text": "r_c chirps softly at m_c as {PRONOUN/r_c/subject} {VERB/r_c/walk/walks} over, and offers to show {PRONOUN/m_c/object} a cool, silly little acc_singular {PRONOUN/r_c/subject} found! m_c takes {PRONOUN/r_c/poss} invitation. After seeing the weird, harmless thing, m_c decides to take it home with {PRONOUN/m_c/object}.",
         "cat_trait": null,
         "cat_skill": null,
         "other_cat_trait": null,
         "other_cat_skill": null,
-        "accessories": ["GRASS SNAKE"]
+        "accessories": ["GRASS SNAKE", "KINGSNAKE"]
     },
    {
         "camp": "any",
@@ -315,6 +335,26 @@
     },  
          {
         "camp": "any",
+        "tags": ["Newleaf", "Greenleaf", "Leaf-fall", "Leaf-bare"],
+        "event_text": "m_c seems to have spotted acc_plural, and has decided to snag one up as a pet.",
+        "cat_trait": null,
+        "cat_skill": null,
+        "other_cat_trait": null,
+        "other_cat_skill": null,
+        "accessories": ["RED LADYBUG", "ORANGE LADYBUG", "YELLOW LADYBUG"]
+    },
+         {
+        "camp": "any",
+        "tags": ["other_cat", "to_both", "platonic", "neg_dislike", "neg_jealousy", "Newleaf", "Greenleaf", "Leaf-fall", "Leaf-bare"],
+        "event_text": "r_c seems to have found a pack of acc_singular collecting near a bush, and calls m_c over to see the acc_plural. Curiously enough. m_c has decided to keep one as a pet.",
+        "cat_trait": null,
+        "cat_skill": null,
+        "other_cat_trait": null,
+        "other_cat_skill": null,
+        "accessories": ["RED LADYBUG", "ORANGE LADYBUG", "YELLOW LADYBUG"]
+    },  
+         {
+        "camp": "any",
         "tags": ["Leaf-fall"],
         "event_text": "m_c tilts {PRONOUN/m_c/poss} head idly at a bee flying around {PRONOUN/m_c/poss} head. It doesn't seem to want to sting {PRONOUN/m_c/object}, so m_c assumes it wants to be {PRONOUN/m_c/poss} friend!",
         "cat_trait": ["loving", "compassionate", "bold", "adventurous", "thoughtful"],
@@ -371,7 +411,7 @@
         "cat_skill": null,
         "other_cat_trait": null,
         "other_cat_skill": null,
-        "accessories": ["FRUIT", "BLUEBERRY"]
+        "accessories": ["FRUIT", "BLUE BERRIES"]
     },
      {
         "camp": "any",
@@ -381,7 +421,7 @@
         "cat_skill": null,
         "other_cat_trait": null,
         "other_cat_skill": null,
-        "accessories": ["RASPBERRY", "BLUEBERRY", "BLACKBERRY", "GOLDEN RASPBERRY"]
+        "accessories": ["RASPBERRY", "BLUE BERRIES", "BLACKBERRY", "GOLDEN RASPBERRY"]
     },
          {
         "camp": "any",
@@ -474,6 +514,26 @@
         "other_cat_trait": null,
         "other_cat_skill": null,
         "accessories": ["WILD", "PLANT", "ALIVEINSECT", "FLOWER", "FRUIT"]
+    },
+       {
+        "camp": "any",
+        "tags": ["other_cat", "to_both", "platonic", "comfort", "neg_dislike", "neg_jealousy", "Newleaf", "Greenleaf", "Leaf-fall", "Leaf-bare"],
+        "event_text": "m_c received a present, two weaved leaves that form a cute green bow from r_c! m_c decides to keep it with {PRONOUN/m_c/object} on {PRONOUN/m_c/poss} pelt.",
+        "cat_trait": null,
+        "cat_skill": null,
+        "other_cat_trait": null,
+        "other_cat_skill": null,
+        "accessories": ["LEAF BOW"]
+    },
+       {
+        "camp": "any",
+        "tags": ["Newleaf", "Greenleaf", "Leaf-fall", "Leaf-bare"],
+        "event_text": "Over the past few days, m_c has been searching bushes with vigor. On an early morning, m_c reveals that {PRONOUN/m_c/subject} {VERB/m_c/have/has} been braiding and weaving a bow made out of leaves for {PRONOUN/m_c/self}! m_c flaunts {PRONOUN/m_c/poss} work proudly.",
+        "cat_trait": null,
+        "cat_skill": null,
+        "other_cat_trait": null,
+        "other_cat_skill": null,
+        "accessories": ["LEAF BOW"]
     },
    {
         "camp": "any",
@@ -656,17 +716,17 @@
         "cat_skill": null,
         "other_cat_trait": null,
         "other_cat_skill": null,
-        "accessories": ["HESPERIS"]
+        "accessories": ["HESPERIS", "WISTERIA"]
     },
     {
         "camp": "any",
         "tags": ["Greenleaf", "Leaf-fall"],
-        "event_text": "m_c finds a pretty pink flower! {PRONOUN/m_c/subject/CAP} {VERB/m_c/wear/wears} it with a smile.",
+        "event_text": "m_c finds acc_singular! {PRONOUN/m_c/subject/CAP} {VERB/m_c/wear/wears} the blooms with a smile.",
         "cat_trait": null,
         "cat_skill": null,
         "other_cat_trait": null,
         "other_cat_skill": null,
-        "accessories": ["HESPERIS"]
+        "accessories": ["HESPERIS", "WISTERIA"]
     },
         {
         "camp": "any",
