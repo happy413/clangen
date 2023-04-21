@@ -17,7 +17,7 @@
         "cat_skill": null,
         "other_cat_trait": null,
         "other_cat_skill": null,
-        "accessories": ["FAWN RABBIT", "FAWN VITILIGO RABBIT", "WHITE AND FAWN RABBIT", "WHITE RABBIT", "BROWN RABBIT", "BROWN AND WHITE RABBIT", "TAN VITILIGO RABBIT"]
+        "accessories": ["FAWN RABBIT", "FAWN AND WHITE RABBIT", "FAWN VITILIGO RABBIT", "WHITE RABBIT", "BROWN RABBIT", "BROWN AND WHITE RABBIT", "BROWN VITILIGO RABBIT", "TAN RABBIT", "TAN VITILIGO RABBIT", "TAN AND WHITE RABBIT"]
     },
        {
         "camp": "any",
