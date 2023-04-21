@@ -2,7 +2,9 @@
 (4/20/23) (lol)
 <strong>added:</strong> wisteria strands, mossy pelt, reed & bamboo nest decorations, kingsnakes, differently colored mice (white, gray, black, and brown!), grey rabbit variants, and a leaf bow!
 - around 34 new events for these accessories!
-
+- added a few worm events and other missing accessory events
+- fixed a handful of bugs (hopefully)
+- gave held moss a fresh coat of paint =3
 - - -
 
 <strong>v1.0 FIRST RELEASE !!!</strong>
