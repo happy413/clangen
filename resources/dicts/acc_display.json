@@ -806,6 +806,21 @@
     "plural": "beetlejuice isopods",
     "singular": "beetlejuice isopod"
 },
+"RED LADYBUG": {
+    "default": "red ladybug friend",
+    "plural": "red ladybugs",
+    "singular": "red ladybug"
+},
+"ORANGE LADYBUG": {
+    "default": "orange ladybug friend",
+    "plural": "orange ladybugs",
+    "singular": "orange ladybug"
+},
+"YELLOW LADYBUG": {
+    "default": "yellow ladybug friend",
+    "plural": "yellow ladybugs",
+    "singular": "yellow ladybug"
+},
 "RAT": {
     "default": "rat friend",
     "plural": "rats",
