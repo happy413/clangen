@@ -299,15 +299,24 @@ wild_accessories = ["RED FEATHERS", "BLUE FEATHERS", "JAY FEATHERS", "MOTH WINGS
 tail_accessories = ["RED FEATHERS", "BLUE FEATHERS", "JAY FEATHERS", "DAISY CORSAGE", "SEAWEED"
                     ]
 ## customs
+plant_accessories = ["MAPLE LEAF", "HOLLY", "BLUE BERRIES", "FORGET ME NOTS", "RYE STALK", "LAUREL",
+                     "BLUEBELLS", "NETTLE", "POPPY", "LAVENDER", "HERBS", "PETALS", "DRY HERBS",
+                     "OAK LEAVES", "CATMINT", "MAPLE SEED", "JUNIPER"
+                     ]
+wild_accessories = ["RED FEATHERS", "BLUE FEATHERS", "JAY FEATHERS", "MOTH WINGS", "CICADA WINGS",
+                    ]
+tail_accessories = ["RED FEATHERS", "BLUE FEATHERS", "JAY FEATHERS", "DAISY CORSAGE", "SEAWEED"
+                    ]
+## customs
 flower_accessories = ["DAISY", "DIANTHUS", "BLEEDING HEARTS", "FRANGIPANI", "BLUE GLORY",
                      "CATNIP FLOWER", "BLANKET FLOWER", "ALLIUM", "LACELEAF",
                       "PURPLE GLORY", "YELLOW PRIMROSE", "HESPERIS",
-                      "MARIGOLD"]
+                      "MARIGOLD", "WISTERIA"]
 
-plant2_accessories = ["CLOVER", "STICK", "PUMPKIN", "MOSS", "IVY", "ACORN"
+plant2_accessories = ["CLOVER", "STICK", "PUMPKIN", "MOSS", "IVY", "ACORN", "MOSS PELT", "REEDS", "BAMBOO"
                     ]
 
-snake_accessories = ["GRASS SNAKE", "BLUE RACER", "WESTERN COACHWHIP"
+snake_accessories = ["GRASS SNAKE", "BLUE RACER", "WESTERN COACHWHIP", "KINGSNAKE"
                      
                      ]
 
@@ -316,7 +325,8 @@ smallAnimal_accessories = ["GRAY SQUIRREL", "RED SQUIRREL", "CRAB", "WHITE RABBI
                            "BROWN AND WHITE RABBIT", "BLACK AND WHITE RABBIT", "WHITE AND FAWN RABBIT", "BLACK VITILIGO RABBIT",
                            "BROWN VITILIGO RABBIT", "FAWN VITILIGO RABBIT", "BLACKBIRD", "ROBIN",
                            "JAY", "THRUSH", "CARDINAL", "MAGPIE", "CUBAN TROGON", "TAN RABBIT", "TAN AND WHITE RABBIT",
-                           "TAN VITILIGO RABBIT", "RAT"
+                           "TAN VITILIGO RABBIT", "RAT", "WHITE MOUSE", "BLACK MOUSE", "GRAY MOUSE", "BROWN MOUSE", "GRAY RABBIT",
+                           "GRAY AND WHITE RABBIT", "GRAY VITILIGO RABBIT"
                     ]
 
 deadInsect_accessories = ["LUNAR MOTH", "ROSY MAPLE MOTH", "MONARCH BUTTERFLY", "DAPPLED MONARCH",
@@ -324,10 +334,10 @@ deadInsect_accessories = ["LUNAR MOTH", "ROSY MAPLE MOTH", "MONARCH BUTTERFLY", 
                     ]
 
 aliveInsect_accessories = ["BROWN SNAIL", "RED SNAIL", "WORM", "BLUE SNAIL", "ZEBRA ISOPOD", "DUCKY ISOPOD", "DAIRY COW ISOPOD",
-                           "BEETLEJUICE ISOPOD", "BEE"
+                           "BEETLEJUICE ISOPOD", "BEE", "RED LADYBUG", "ORANGE LADYBUG", "YELLOW LADYBUG"
                     ]
 
-fruit_accessories = ["RASPBERRY", "BLACKBERRY", "GOLDEN RASPBERRY", "CHERRY"
+fruit_accessories = ["RASPBERRY", "BLACKBERRY", "GOLDEN RASPBERRY", "CHERRY", "YEW"
                     ]
 
 crafted_accessories = ["WILLOWBARK BAG", "CLAY DAISY POT", "CLAY AMANITA POT", "CLAY BROWNCAP POT", "BIRD SKULL"
