@@ -696,16 +696,6 @@
     "plural": "black rabbits",
     "singular": "black rabbit"
 },
-"DAISY CORSAGE": {
-    "default": "daisy tail corsage",
-    "plural": "daisy corsages",
-    "singular": "daisy corsage"
-},
-"INDIAN GIANT SQUIRREL": {
-    "default": "indian giant squrriel",
-    "plural": "indian giant squrriels",
-    "singular": "indian giant squrriels"
-},
 "FAWN RABBIT": {
     "default": "fawn rabbit",
     "plural": "fawn rabbits",
@@ -715,6 +705,16 @@
     "default": "gray rabbit",
     "plural": "gray rabbits",
     "singular": "gray rabbit"
+},
+"DAISY CORSAGE": {
+    "default": "daisy tail corsage",
+    "plural": "daisy corsages",
+    "singular": "daisy corsage"
+},
+"INDIAN GIANT SQUIRREL": {
+    "default": "indian giant squrriel",
+    "plural": "indian giant squrriels",
+    "singular": "indian giant squrriels"
 },
 "BROWN AND WHITE RABBIT": {
     "default": "brown and white rabbit",
@@ -736,6 +736,11 @@
     "plural": "gray and white rabbits",
     "singular": "gray and white rabbit"
 },
+  "TAN AND WHITE RABBIT" : {
+    "default": "gray and white rabbit",
+    "plural": "gray and white rabbits",
+    "singular": "gray and white rabbit"
+},
 "BLACK VITILIGO RABBIT": {
     "default": "black vitiligo rabbit",
     "plural": "black white-spotted rabbits",
@@ -750,6 +755,11 @@
     "default": "fawn vitiligo rabbit",
     "plural": "fawn white-spotted rabbits",
     "singular": "fawn white-spotted rabbit"
+},
+"TAN VITILIGO RABBIT": {
+    "default": "black vitiligo rabbit",
+    "plural": "black white-spotted rabbits",
+    "singular": "black white-spotted rabbit"
 },
   "GRAY VITILIGO RABBIT" : {
   "default": "gray white-spotted rabbit",
