@@ -11,7 +11,7 @@
     },
         {
         "camp": "any",
-        "tags": ["other_cat", "other_cat", "to_both", "platonic", "comfort", "neg_dislike", "neg_jealousy", "Newleaf", "Greenleaf", "Leaf-fall", "Leaf-bare"],
+        "tags": ["other_cat", "other_cat_adult", "to_both", "platonic", "comfort", "neg_dislike", "neg_jealousy", "Newleaf", "Greenleaf", "Leaf-fall", "Leaf-bare"],
         "event_text": "r_c and m_c go on a walk together! After a while, m_c and r_c run into a cute, slowly moving snail! m_c decides to keep it as a pet, and r_c cooes at the little thing as m_c carries it home.",
         "cat_trait": null,
         "cat_skill": null,
@@ -31,7 +31,7 @@
     },
         {
         "camp": "any",
-        "tags": ["other_cat", "other_cat", "to_both", "platonic", "comfort", "neg_dislike", "neg_jealousy", "Newleaf", "Greenleaf", "Leaf-fall", "Leaf-bare"],
+        "tags": ["other_cat", "other_cat_adult", "to_both", "platonic", "comfort", "neg_dislike", "neg_jealousy", "Newleaf", "Greenleaf", "Leaf-fall", "Leaf-bare"],
         "event_text": "r_c and m_c go on a walk together! After a while, m_c and r_c run into a light pink, squirmy little worm! m_c decides to keep it as a pet, and r_c cooes at the little thing as m_c carries it home.",
         "cat_trait": null,
         "cat_skill": null,
@@ -41,8 +41,8 @@
         },
      {
         "camp": "any",
-        "tags": ["Newleaf","Greenleaf", "Leaf-bare", "Leaf-fall", "other_cat"],
-        "event_text": "m_c eyes a pink-nosed rat that wondered into the warrior's den. Before r_c can even think about stopping {PRONOUN/m_c/object}, m_c befriends the weird little thing with a piece of grass.",
+        "tags": ["Newleaf", "Leaf-bare", "Leaf-fall", "other_cat"],
+        "event_text": "m_c eyes a pink-nosed rat that wondered into the apprentice's den. Before r_c can even think about stopping {PRONOUN/m_c/object}, m_c befriends the weird little thing with a few leftover acorns.",
         "cat_trait": null,
         "cat_skill": null,
         "other_cat_trait": null,
@@ -57,16 +57,16 @@
         "cat_skill": null,
         "other_cat_trait": null,
         "other_cat_skill": null,
-        "accessories": ["WHITE MOUSE", "BLACK MOUSE", "GRAY MOUSE", "BROWN MOUSE"]
+        "accessories": ["WHITE MOUSE", "BLACK MOUSE", "GRAY MOUSE", "BROWN MOUSE", "RAT"]
     },
         {
         "camp": "any",
-        "tags": ["other_cat", "to_both", "dislike", "jealousy", "neg_trust", "Newleaf", "Greenleaf", "Leaf-fall", "Leaf-bare"],
-        "event_text": "r_c's eyes dilate as {PRONOUN/r_c/subject} {VERB/r_c/hunches/hunch} down to watch a mouse nibble at a fat seed! m_c stops r_c before {PRONOUN/r_c/subject} pounce, and manages to.. befriend the mouse! r_c rolls {PRONOUN/r_c/poss} eyes, grumbling about wasted food.",
+        "tags": ["other_cat", "other_cat_adult", "to_both", "dislike", "jealousy", "neg_trust", "Newleaf", "Greenleaf", "Leaf-fall", "Leaf-bare"],
+        "event_text": "r_c's eyes dilate as {PRONOUN/r_c/subject} {VERB/r_c/hunches/hunch} down to watch acc_singular nibble at a fat seed! m_c stops r_c before {PRONOUN/r_c/subject} pounce, and manages to.. befriend the acc_singular! r_c rolls {PRONOUN/r_c/poss} eyes, grumbling about wasted food.",
         "cat_trait": null,
         "cat_skill": null,
         "other_cat_trait": ["bloodthirsty", "vengeful", "cold", "fierce", "shameless", "righteous", "strange"],
         "other_cat_skill": null,
-        "accessories": ["WHITE MOUSE", "BLACK MOUSE", "GRAY MOUSE", "BROWN MOUSE"]
+        "accessories": ["WHITE MOUSE", "BLACK MOUSE", "GRAY MOUSE", "BROWN MOUSE", "RAT"]
     }
 ]
