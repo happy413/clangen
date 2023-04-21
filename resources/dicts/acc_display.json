@@ -461,6 +461,11 @@
     "plural": "grass snakes",
     "singular": "grass snake"
 },
+"KINGSNAKE": {
+    "default": "kingsnake friend",
+    "plural": "kingsnakes",
+    "singular": "kingsnake"
+},
 "PUMPKIN": {
     "default": "pumpkin",
     "plural": "pumpkins",
