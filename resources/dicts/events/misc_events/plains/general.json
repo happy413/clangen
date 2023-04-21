@@ -58,11 +58,11 @@
         "other_cat_trait": null,
         "other_cat_skill": null,
         "accessories": ["MARIGOLD"]
-    }
+    },
                   {
         "camp": "any",
         "tags": ["Greenleaf", "Leaf-fall"],
-        "event_text": "m_c's eyes sparkle as {PRONOUN/m_c/subject} {VERB/m_c/realizes/realize} something <i>wonderful</i> --- {PRONOUN/m_c/subject} can propogate the bamboo on the edges of c_n territory, and decorate {PRONOUN/m_c/poss} nest with it! A week later, m_c is seen sleeping soundly with leafy stalks of bamboo casting shadows on {PRONOUN/m_c/poss} pelt.",
+        "event_text": "m_c's eyes sparkle as {PRONOUN/m_c/subject} {VERB/m_c/realizes/realize} something <i>wonderful</i> --- {PRONOUN/m_c/subject} can propagate the bamboo on the edges of c_n territory, and decorate {PRONOUN/m_c/poss} nest with it! A week later, m_c is seen sleeping soundly with leafy stalks of bamboo casting shadows on {PRONOUN/m_c/poss} pelt.",
         "cat_trait": null,
         "cat_skill": null,
         "other_cat_trait": null,
