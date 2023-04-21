@@ -176,7 +176,7 @@
         {
         "camp": "any",
         "tags": ["other_cat", "other_cat_adult", "to_both", "platonic", "comfort", "neg_dislike", "neg_jealousy", "Leaf-fall"],
-        "event_text": "r_c finds a weird little pumpkin while on patrol! {PRONOUN/r_c/subject/CAP} {VERB/r_c/CAP/bring/brings} it back home to m_c, and tells {PRONOUN/m_c/object} it's a gift! m_c accepts it happily, and decides to roll it around.",
+        "event_text": "r_c finds a weird little pumpkin while on patrol! {PRONOUN/r_c/subject/CAP} {VERB/r_c/bring/brings} it back home to m_c, and tells {PRONOUN/m_c/object} it's a gift! m_c accepts it happily, and decides to roll it around.",
         "cat_trait": null,
         "cat_skill": null,
         "other_cat_trait": null,
