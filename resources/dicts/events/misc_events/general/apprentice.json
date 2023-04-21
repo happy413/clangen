@@ -85,6 +85,26 @@
     },
         {
         "camp": "any",
+        "tags": ["other_cat_parent", "other_cat", "Newleaf", "Greenleaf", "Leaf-fall", "Leaf-bare"],
+        "event_text": "m_c was playing with a big mossball earlier, reminiscent of their kittenhood days! Suddenly, they get a <i>wonderful</i> idea --- cover {PRONOUN/m_c/self} in moss to pretend that m_c is a mossball! r_c is aghast and horrified as they watch m_c roll around in muddy moss. ",
+        "cat_trait": null,
+        "cat_skill": null,
+        "other_cat_trait": null,
+        "other_cat_skill": null,
+        "accessories": ["MOSS PELT"]
+    },
+    {
+        "camp": "any",
+        "tags": ["other_cat_parent", "other_cat","Newleaf", "Greenleaf", "Leaf-fall", "Leaf-bare"],
+        "event_text": "No matter how hard r_c tries, there's always something stuck in m_c's fur.",
+        "cat_trait": null,
+        "cat_skill": null,
+        "other_cat_trait": null,
+        "other_cat_skill": null,
+        "accessories": ["HERBS", "PETALS", "DRY HERBS", "HESPERIS", "MOSS PELT"]
+    },
+        {
+        "camp": "any",
         "tags": ["other_cat", "other_cat_adult", "to_both", "platonic", "comfort", "neg_dislike", "neg_jealousy", "Newleaf", "Greenleaf", "Leaf-fall", "Leaf-bare"],
         "event_text": "r_c finds a cool stick while on patrol! {PRONOUN/r_c/subject/CAP} {VERB/r_c/CAP/bring/brings} it back home to m_c, and tells {PRONOUN/m_c/object} it's a gift! m_c accepts it happily, and decides to carry it around.",
         "cat_trait": null,
@@ -579,6 +599,46 @@
         "other_cat_trait": null,
         "other_cat_skill": null,
         "accessories": ["RYE STALK"]
+    },
+             {
+        "camp": "any",
+        "tags": ["Newleaf", "Greenleaf", "Leaf-fall", "Leaf-bare"],
+        "event_text": "m_c seems to have spotted acc_plural, and has decided to snag one up as a pet.",
+        "cat_trait": null,
+        "cat_skill": null,
+        "other_cat_trait": null,
+        "other_cat_skill": null,
+        "accessories": ["RED LADYBUG", "ORANGE LADYBUG", "YELLOW LADYBUG"]
+    },
+         {
+        "camp": "any",
+        "tags": ["other_cat", "other_cat_app", "to_both", "platonic", "neg_dislike", "neg_jealousy", "Newleaf", "Greenleaf", "Leaf-fall", "Leaf-bare"],
+        "event_text": "r_c seems to have found a pack of acc_singular collecting near a bush, and calls m_c over to see the acc_plural. Curiously enough. m_c has decided to keep one as a pet.",
+        "cat_trait": null,
+        "cat_skill": null,
+        "other_cat_trait": null,
+        "other_cat_skill": null,
+        "accessories": ["RED LADYBUG", "ORANGE LADYBUG", "YELLOW LADYBUG"]
+    },
+           {
+        "camp": "any",
+        "tags": ["other_cat", "to_both", "platonic", "comfort", "neg_dislike", "neg_jealousy", "Newleaf", "Greenleaf", "Leaf-fall", "Leaf-bare"],
+        "event_text": "m_c received a present, two weaved leaves that form a cute green bow from r_c! m_c decides to keep it with {PRONOUN/m_c/object} on {PRONOUN/m_c/poss} pelt.",
+        "cat_trait": null,
+        "cat_skill": null,
+        "other_cat_trait": null,
+        "other_cat_skill": null,
+        "accessories": ["LEAF BOW"]
+    },
+       {
+        "camp": "any",
+        "tags": ["Newleaf", "Greenleaf", "Leaf-fall", "Leaf-bare"],
+        "event_text": "Over the past few days, m_c has been searching bushes with vigor. On an early morning, m_c reveals that {PRONOUN/m_c/subject} {VERB/m_c/have/has} been braiding and weaving a bow made out of leaves for {PRONOUN/m_c/self}! m_c flaunts {PRONOUN/m_c/poss} work proudly.",
+        "cat_trait": null,
+        "cat_skill": null,
+        "other_cat_trait": null,
+        "other_cat_skill": null,
+        "accessories": ["LEAF BOW"]
     },
     {
         "camp": "any",
