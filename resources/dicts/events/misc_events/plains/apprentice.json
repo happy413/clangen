@@ -22,7 +22,7 @@
      {
         "camp": "any",
         "tags": ["Newleaf","Greenleaf", "Leaf-bare", "Leaf-fall", "other_cat"],
-        "event_text": "m_c eyes a pink-nosed rat that wondered into the apprentice's den. Before r_c can even think about stopping {PRONOUN/m_c/object}, m_c befriends the weird little thing with a piece of grass.",
+        "event_text": "m_c eyes a pink-nosed rat that wandered into the apprentice's den. Before r_c can even think about stopping {PRONOUN/m_c/object}, m_c befriends the weird little thing with a piece of grass.",
         "cat_trait": null,
         "cat_skill": null,
         "other_cat_trait": null,
