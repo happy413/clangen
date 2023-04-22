@@ -59,6 +59,16 @@
         "other_cat_skill": null,
         "accessories": ["SEAWEED"]
     },
+                 {
+        "camp": "any",
+        "tags": ["Newleaf","Greenleaf", "Leaf-bare", "Leaf-fall"],
+        "event_text": "m_c stares at a crab that wandered near the warrior's den. The crab stares back ominously. m_c squints at it, and the crab <i>(somehow)</i> squints back. Out of pure respect, m_c keeps the crab around {PRONOUN/m_c/object} when possible.",
+        "cat_trait": null,
+        "cat_skill": null,
+        "other_cat_trait": null,
+        "other_cat_skill": null,
+        "accessories": ["CRAB"]
+    },
                {
         "camp": "any",
         "tags": ["Newleaf","Greenleaf", "Leaf-bare", "Leaf-fall"],
