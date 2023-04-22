@@ -104,8 +104,8 @@
     },
               {
         "camp": "any",
-        "tags": ["other_cat", "other_cat_adult", "to_both", "platonic", "comfort", "neg_dislike", "neg_jealousy", "Newleaf", "Greenleaf", "Leaf-fall", "Leaf-bare"],
-        "event_text": "r_c finds a cool stick while on patrol! {PRONOUN/r_c/subject/CAP} {VERB/r_c/bring/brings} it back home to m_c, and tells {PRONOUN/m_c/object} it's a gift! m_c accepts it happily, and decides to carry it around.",
+        "tags": ["Newleaf", "Greenleaf", "Leaf-fall", "Leaf-bare"],
+        "event_text": "m_c finds a cool stick near the edge of camp! m_c decides it's cool enough to keep around.",
         "cat_trait": null,
         "cat_skill": null,
         "other_cat_trait": null,
@@ -172,11 +172,42 @@
         "other_cat_skill": null,
         "accessories": ["ACORN"]
     },
+                 {
+        "camp": "any",
+        "tags": ["Newleaf", "Greenleaf", "Leaf-fall", "Leaf-bare", "other_cat"],
+        "event_text": "m_c trudges around camp with {PRONOUN/m_c/poss} pelt somehow covered in muddy grime and moss. After being properly cleaned, m_c decides to keep the moss.",
+         "cat_trait": null,
+        "cat_skill": null,
+        "other_cat_trait": null,
+        "other_cat_skill": null,
+        "accessories": ["MOSS PELT"]
+       },
+      {
+        
+        "camp": "any",
+        "tags": ["other_cat", "to_both", "dislike", "Newleaf", "Greenleaf", "Leaf-fall"],
+        "event_text": "r_c, while m_c dozes off in camp, proceeds to pelt m_c with moss! m_c wakes up and snaps at r_c, but... keeps the moss on anyway. Strange.",
+        "cat_trait": null,
+        "cat_skill": null,
+        "other_cat_trait": null,
+        "other_cat_skill": null,
+        "accessories": ["MOSS PELT"]
+    },
            {
         "camp": "any",
         "tags": ["Newleaf", "Greenleaf"],
         "event_text": "After a warm stroll in the leaf-broken sunlight, m_c comes back with moss in {PRONOUN/m_c/poss} jaws. {PRONOUN/m_c/subject/CAP} {VERB/m_c/seem/seems} oddly possessive over it.",
         "cat_trait": ["impulsive", "charismatic", "childish", "strange"],
+        "cat_skill": null,
+        "other_cat_trait": null,
+        "other_cat_skill": null,
+        "accessories": ["MOSS"]
+    },
+       {
+        "camp": "any",
+        "tags": ["other_cat", "other_cat_adult", "to_both", "platonic", "comfort", "neg_dislike", "Newleaf", "Greenleaf", "Leaf-fall", "Leaf-bare"],
+        "event_text": "m_c meows softly, volunteering to go on a moss-gathering patrol with r_c. They have a nice time talking while walking to a moss patch, and m_c comes home with fresh moss in their jaws.",
+        "cat_trait": null,
         "cat_skill": null,
         "other_cat_trait": null,
         "other_cat_skill": null,
@@ -205,7 +236,7 @@
                    {
         "camp": "any",
         "tags": ["other_cat", "other_cat_adult", "to_both", "platonic", "comfort", "neg_dislike", "neg_jealousy", "Newleaf", "Greenleaf", "Leaf-fall", "Leaf-bare"],
-        "event_text": "r_c <i>mrrps</i> at m_c, asking {PRONOUN/m_c/object} if {PRONOUN/m_c/subject} wanted a pair of acc_singular that they found. m_c says yes, and thanks {PRONOUN/r_c/object} for the cool wings!",
+        "event_text": "r_c <i>mrrps</i> at m_c, asking {PRONOUN/m_c/object} if {PRONOUN/m_c/subject} wanted acc_plural that they found. m_c says yes, and thanks {PRONOUN/r_c/object} for the cool wings!",
         "cat_trait": null,
         "cat_skill": null,
         "other_cat_trait": null,
@@ -255,7 +286,7 @@
           {
         "camp": "any",
         "tags": ["Newleaf", "Greenleaf", "Leaf-fall", "Leaf-bare"],
-        "event_text": "m_c comes into camp with a happy glint in {PRONOUN/m_c/poss} eye, happily sharing how m_c managed to keep a snail as {PRONOUN/m_c/poss} pet.",
+        "event_text": "m_c trots around camp with a happy glint in {PRONOUN/m_c/poss} eye, happily sharing how m_c managed to keep a snail as {PRONOUN/m_c/poss} pet.",
         "cat_trait": null,
         "cat_skill": null,
         "other_cat_trait": null,
