@@ -59,6 +59,26 @@
         "other_cat_skill": null,
         "accessories": ["SEAWEED"]
     },
+               {
+        "camp": "any",
+        "tags": ["Newleaf","Greenleaf", "Leaf-bare", "Leaf-fall"],
+        "event_text": "m_c curiously pokes and prods at a crab that wandered into camp. The crab, unbothered to m_c's antics, seems relaxed enough to keep as a pet. m_c cheerfully shows off {PRONOUN/m_c/poss} new friend!",
+        "cat_trait": null,
+        "cat_skill": null,
+        "other_cat_trait": null,
+        "other_cat_skill": null,
+        "accessories": ["CRAB"]
+    },
+      {
+        "camp": "any",
+        "tags": ["other_cat", "other_cat_adult", "to_both", "platonic", "comfort", "neg_dislike", "neg_jealousy", "Newleaf","Greenleaf", "Leaf-bare", "Leaf-fall"],
+        "event_text": "r_c decides to stop by m_c while {PRONOUN/m_c/subject} are sunbathing in camp, asking if m_c would like a crab they caught. m_c nods, interested, and r_c plops down the critter as it still attempts to crawl while on it's back. m_c doesn't crack {PRONOUN/m_c/poss} jaws into it's shell like expected. Instead, m_c flips it over and ogles it curiously. Seems like m_c has found a new friend...?",
+        "cat_trait": null,
+        "cat_skill": null,
+        "other_cat_trait": null,
+        "other_cat_skill": null,
+        "accessories": ["CRAB"]
+    },
               {
         "camp": "any",
         "tags": ["Newleaf", "Greenleaf", "Leaf-fall", "Leaf-bare"],
