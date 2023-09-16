@@ -316,14 +316,14 @@
 		]
 	},
 	"death_related": {
-		"leader_death_chance": 125,
-		"old_age_death_start": 150,
+		"leader_death_chance": 90,
+		"old_age_death_start": 140,
 		"old_age_death_chance": 51,
 		"classic_death_chance": 500,
 		"expanded_death_chance": 350,
 		"cruel season_death_chance": 300,
-		"war_death_modifier_leader": 95,
-		"war_death_modifier": 250,
+		"war_death_modifier_leader": 65,
+		"war_death_modifier": 220,
 		"base_random_murder_chance": 25,
 		"base_murder_kill_chance": 170
 	},
