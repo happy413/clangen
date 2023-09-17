@@ -90,7 +90,8 @@
             "Carries r_c to the nursery because {PRONOUN/r_c/subject} fell asleep",
             "Is scolding r_c for almost being reckless",
             "Hopes {PRONOUN/m_c/poss} kits arent getting into too much trouble",
-            "Is in awe with how fast r_c is growing"
+            "Is in awe with how fast r_c is growing",
+            "Is snuggling with r_c"
         ],
         "relationship_constraint": [
             "parent/child"
