@@ -316,15 +316,26 @@
 		]
 	},
 	"death_related": {
+<<<<<<< Updated upstream
 		"leader_death_chance": 15,
 		"old_age_death_start": 140,
+=======
+		"leader_death_chance": 30,
+		"old_age_death_start": 150,
+>>>>>>> Stashed changes
 		"old_age_death_chance": 51,
 		"classic_death_chance": 500,
 		"expanded_death_chance": 350,
 		"cruel season_death_chance": 300,
+<<<<<<< Updated upstream
 		"war_death_modifier_leader": 1,
 		"war_death_modifier": 60,
 		"base_random_murder_chance": 20,
+=======
+		"war_death_modifier_leader": 5,
+		"war_death_modifier": 75,
+		"base_random_murder_chance": 50,
+>>>>>>> Stashed changes
 		"base_murder_kill_chance": 170
 	},
 	"condition_related": {
