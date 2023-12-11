@@ -207,7 +207,7 @@
 		"ceremony_modifier": -20
 	},
 	"fading": {
-		"age_to_fade": 202,
+		"age_to_fade": 200,
 		"opacity_at_fade": 20,
 		"visual_fading_speed": 5
 	},
