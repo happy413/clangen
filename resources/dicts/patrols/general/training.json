@@ -1370,8 +1370,42 @@
                         "amount": 5
                     }
                 ]
-            }
+            },
+            {
+                "text": "p_l suddenly snarls, whirling around and lashing out at app1. app1 squeals in pain and shock, staggering backwards. p_l looks coldly at the apprentice as they cower in fear, hissing at app1 to <i>never</i> talk to them like that again.",
+                "exp": 20,
+                "weight": 20,
+                "stat_trait": [
+                    "bloodthirsty",
+                    "vengeful",
+                    "cold",
+                    "strict",
+                    "fierce"
+                ],
+                "injury": [
+                    {
+                        "cats": ["app1"],
+                        "injuries": ["claw-wound"],
+                        "scars": ["BRIDGE", "FACE", "SNOUT", "CHEEK", "LEFTEAR", "RIGHTEAR"]
+                    }
+                ],
+                "history_text": {
+                    "scar": "m_c was scarred by their mentor after talking back to them.",
+                    "reg_death": "m_c died after their mentor attacked them on patrol."
+                },
+                "relationships": [
+                    {
+                        "cats_to": ["p_l"],
+                        "cats_from": ["patrol"],
+                        "mutual": true,
+                        "values": ["dislike"],
+                        "amount": 30
+                    }
+                ]
+        
+    }
         ],
+        
         "fail_outcomes": [
             {
                 "text": "p_l rolls their eyes, as amused by the apprentice's audacity as they are annoyed.",
