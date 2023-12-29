@@ -247,7 +247,7 @@
 		"better_stat_modifier": 5,
 		"best_stat_modifier": 10,
 		"fail_stat_cat_modifier": -15,
-		"chance_of_romance_patrol": 16,
+		"chance_of_romance_patrol": 10,
 		"debug_ensure_patrol_id": "null",
 		"comment": [
 			"the Cruel Season difficulty modifier needs to have a space rather than an underscore,",
