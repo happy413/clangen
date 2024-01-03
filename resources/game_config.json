@@ -262,7 +262,7 @@
 		"expanded_death_chance": 170,
 		"cruel season_death_chance": 300,
 		"war_death_modifier_leader": 1,
-		"war_death_modifier": 10,
+		"war_death_modifier": 7,
 		"base_random_murder_chance": 40,
 		"base_murder_kill_chance": 170,
 		"old_age_death_curve": 10,
