@@ -382,7 +382,7 @@
         "types": ["training"],
         "tags": [],
         "patrol_art": "fst_train_stuck",
-        "min_cats": 3,
+        "min_cats": 2,
         "max_cats": 6,
         "min_max_status": {},
         "weight": 20,

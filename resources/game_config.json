@@ -263,7 +263,7 @@
 		"cruel season_death_chance": 300,
 		"war_death_modifier_leader": 1,
 		"war_death_modifier": 1,
-		"base_random_murder_chance": 25,
+		"base_random_murder_chance": 18,
 		"base_murder_kill_chance": 170,
 		"old_age_death_curve": 4.5,
 		"comment": [
