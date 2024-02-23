@@ -813,7 +813,7 @@
         "types": ["border"],
         "tags": ["new_cat"],
         "patrol_art": "gen_bord_newkit",
-        "min_cats": 2,
+        "min_cats": 1,
         "max_cats": 6,
         "min_max_status": {},
         "weight": 20,
