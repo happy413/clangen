@@ -1096,7 +1096,7 @@
         "min_cats": 1,
         "max_cats": 1,
         "min_max_status": {
-            "leader": [-1, -1],
+            "leader": [1, 6],
             "all apprentices": [-1, -1],
             "normal adult": [1, 6]
         },
