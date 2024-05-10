@@ -468,7 +468,7 @@
                 ]
             },
             {
-                "text": "r_c reminds p_l of all the advice {PRONOUN/p_l/subject}{VERB/p_l/'ve/'s} given r_c that has made such a difference in {PRONOUN/r_c/poss} life. Every cat has their skills, and p_l is vital to the clan.",
+                "text": "r_c reminds p_l of all the advice {PRONOUN/p_l/subject}{VERB/p_l/'ve/'s} given r_c that has made such a difference in {PRONOUN/r_c/poss} life. Every cat has their skills, and p_l is vital to the Clan.",
                 "exp": 20,
                 "weight": 5,
                 "relationships": [
@@ -2287,7 +2287,7 @@
         },
         "weight": 10,
         "intro_text": "The patrol has a disagreement and looks to p_l to settle the dispute.",
-        "decline_text": "Your patrol decides to head home.",
+        "decline_text": "The patrol decides to head home.",
         "chance_of_success": 50,
         "success_outcomes": [
             {
@@ -2312,7 +2312,7 @@
                 ]
             },
             {
-                "text": "p_l listens to both sides, then makes a careful judgement. It keeps no one happy, the mark of an excellent compromise.",
+                "text": "p_l listens to both sides, then makes a careful judgment. It keeps no one happy, the mark of an excellent compromise.",
                 "exp": 20,
                 "weight": 5,
                 "relationships": [
@@ -2490,7 +2490,7 @@
         },
         "weight": 20,
         "intro_text": "While out training together, app1 starts an argument with p_l about the technique they're working on.",
-        "decline_text": "Your patrol decides to head home.",
+        "decline_text": "The patrol decides to head home.",
         "chance_of_success": 50,
         "success_outcomes": [
             {
@@ -2705,7 +2705,7 @@
         },
         "weight": 10,
         "intro_text": "The patrol has a disagreement and looks to p_l to settle the dispute.",
-        "decline_text": "Your patrol decides to head home.",
+        "decline_text": "The patrol decides to head home.",
         "chance_of_success": 50,
         "success_outcomes": [
             {
@@ -2730,7 +2730,7 @@
                 ]
             },
             {
-                "text": "p_l listens to both sides, then makes a careful judgement. It keeps no one happy, the mark of an excellent compromise.",
+                "text": "p_l listens to both sides, then makes a careful judgment. It keeps no one happy, the mark of an excellent compromise.",
                 "exp": 20,
                 "weight": 5,
                 "relationships": [
@@ -2866,7 +2866,7 @@
                 ]
             },
             {
-                "text": "Making a cold, factual judgement, s_c logically lays out which side {PRONOUN/s_c/subject}{VERB/s_c/'re/'s} on, and why, convincing the rest of the patrol.",
+                "text": "Making a cold, factual judgment, s_c logically lays out which side {PRONOUN/s_c/subject}{VERB/s_c/'re/'s} on, and why, convincing the rest of the patrol.",
                 "exp": 20,
                 "weight": 20,
                 "stat_trait": [
@@ -8728,7 +8728,7 @@
                 ]
             },
             {
-                "text": "p_l sits down with app1 in the training grounds. What's wrong? As the leader, p_l could - app1 cuts {PRONOUN/p_l/object} off. Yes, app1 knows {PRONOUN/p_l/subject}{VERB/p_l/'re/'s} the leader, <i>everyone</i> stars-damned knows p_l is the leader! That's the problem! Everyone expects so much, just because app1 happened to be born into p_l's nest, like that's helped app1 at all! p_l curls around them sympathetically, listening, heart sinking to hear the burden placed on {PRONOUN/p_l/poss} child by the clan.",
+                "text": "p_l sits down with app1 in the training grounds. What's wrong? As the leader, p_l could - app1 cuts {PRONOUN/p_l/object} off. Yes, app1 knows {PRONOUN/p_l/subject}{VERB/p_l/'re/'s} the leader, <i>everyone</i> stars-damned knows p_l is the leader! That's the problem! Everyone expects so much, just because app1 happened to be born into p_l's nest, like that's helped app1 at all! p_l curls around them sympathetically, listening, heart sinking to hear the burden placed on {PRONOUN/p_l/poss} child by the Clan.",
                 "exp": 20,
                 "weight": 5,
                 "relationships": [
