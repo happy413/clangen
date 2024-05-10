@@ -1098,7 +1098,7 @@
         "min_max_status": {
             "leader": [1, 6],
             "all apprentices": [-1, -1],
-            "normal adult": [1, 6]
+            "normal adult": [2, 6]
         },
         "weight": 20,
         "intro_text": "p_l slinks through c_n's territory, low to the ground and watchful as {PRONOUN/p_l/subject} {VERB/p_l/approach/approaches} the o_c_n border. The moon hangs heavy in the sky, and {PRONOUN/p_l/poss} eyes dart around, taking in {PRONOUN/p_l/poss} surroundings - did {PRONOUN/p_l/subject} make it here unnoticed?",

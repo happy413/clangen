@@ -75,12 +75,12 @@
 			},
 			"mates_to_each_other": {
 				"romantic": 0,
-				"platonic": 15,
+				"platonic": 10,
 				"dislike": 0,
 				"admiration": 0,
-				"comfortable": 15,
+				"comfortable": 10,
 				"jealousy": 0,
-				"trust": 20
+				"trust": 10
 			}
 		},
 		"comment":[
@@ -249,8 +249,8 @@
 		"better_stat_modifier": 5,
 		"best_stat_modifier": 10,
 		"fail_stat_cat_modifier": -15,
-		"chance_of_romance_patrol": 7,
-		"debug_ensure_patrol_id": null,
+		"chance_of_romance_patrol": 4,
+		"debug_ensure_patrol_id": "gen_border_otherclan_meeting2",
 		"comment": [
 			"the Cruel Season difficulty modifier needs to have a space rather than an underscore,",
 			"due to how it's written in the save files. So don't try to 'fix' it."
@@ -280,7 +280,7 @@
 		"classic_injury_chance": 450,
 		"expanded_injury_chance": 250,
 		"cruel season_injury_chance": 150,
-		"permanent_condition_chance": 4,
+		"permanent_condition_chance": 3,
 		"war_injury_modifier": 100
 	},
 	"clan_creation": {
