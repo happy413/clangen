@@ -1094,9 +1094,9 @@
         "min_cats": 1,
         "max_cats": 1,
         "min_max_status": {
-            "leader": [1, 6],
+            "leader": [-1, -1],
             "all apprentices": [-1, -1],
-            "normal adult": [2, 6]
+            "normal adult": [1, 6]
         },
         "weight": 20,
         "intro_text": "p_l slinks through c_n's territory, low to the ground and watchful as {PRONOUN/p_l/subject} {VERB/p_l/approach/approaches} the o_c_n border. The claw-scratch moon provides little light, and p_l's eyes dart around, taking in {PRONOUN/p_l/poss} surroundings - did {PRONOUN/p_l/subject} make it here unnoticed?",
@@ -1106,7 +1106,7 @@
             {
                 "text": "{PRONOUN/p_l/subject/CAP} {VERB/p_l/crouch/crouches} out of sight and {VERB/p_l/wait/waits}, still as stone. After a short while, there's a soft call across the border. Perking up, p_l rushes forward, pushing {PRONOUN/p_l/poss} nose into the fur of a cat from o_c_n. Tails entwined, they talk in hushed voices until the stars start to blink out. With a soft goodbye, each returns home, their Clans unaware of their secret.",
                 "exp": 5,
-                "weight": 20
+                "weight": 10
             },
             {
                 "text": "p_l steps across the border, padding across as if {PRONOUN/p_l/subject} {VERB/p_l/belong/belongs} there. At the end of a hidden path, a cat from o_c_n sits, who rises with a purr to rub up against p_l. The two simply lay together, the light of the moon dappling their pelts as they enjoy each other's company. When dawn approaches, r_c heads home, {PRONOUN/p_l/poss} absence and return each unnoticed.",
@@ -1116,7 +1116,7 @@
             {
                 "text": "p_l noses forward, half-hidden, only stepping out when n_c:0's scent hits {PRONOUN/p_l/object}. They've been planning this for moons - tonight is the night. n_c:0 is ready to join c_n - to join p_l - and damn anyone who gossips to the Dark Forest. Tonight is the first night of the rest of their lives together; nothing can stand in their way.",
                 "exp": 5,
-                "weight": 5,
+                "weight": 30,
                 "new_cat": [
                     ["age:mate", "backstory:otherclan2", "mate:p_l"]
                 ],
