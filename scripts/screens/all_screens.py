@@ -1,4 +1,3 @@
-from .LeaderDenScreen import LeaderDenScreen
 from .Screens import Screens
 from .StartScreen import StartScreen
 from .PatrolScreen import PatrolScreen
@@ -66,7 +65,6 @@ catlist_screen = ListScreen('list screen')
 med_den_screen = MedDenScreen('med den screen')
 freshkill_pile_screen = ClearingScreen('clearing screen')
 warrior_den_screen = WarriorDenScreen('warrior den screen')
-leader_den_screen = LeaderDenScreen('leader den screen')
 
 
 events_screen = EventsScreen('events screen')

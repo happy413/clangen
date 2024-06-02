@@ -153,7 +153,6 @@ class History:
         """
         adds joining age and moon info to the cat's history save
         :param cat: cat object
-        :param clan_born: default False, set True if the cat was not born in the Clan
         """
         if not game.clan:
             return

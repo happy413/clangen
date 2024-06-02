@@ -34,6 +34,7 @@ class NewCatEvents:
             other_clan = game.clan.all_clans[0]
             other_clan_name = f'{other_clan.name}Clan'
 
+        
         #Determine
         if NewCatEvents.has_outside_cat():
             if random.randint(1, 3) == 1:
@@ -65,11 +66,13 @@ class NewCatEvents:
                     outside_cat.create_one_relationship(the_cat)
 
                 # takes cat out of the outside cat list
-                outside_cat.add_to_clan()
+                game.clan.add_to_clan(outside_cat)
+                history = History()
+                history.add_beginning(outside_cat)
 
                 return [outside_cat]
 
-
+        
         # ---------------------------------------------------------------------------- #
         #                                cat creation                                  #
         # ---------------------------------------------------------------------------- #
@@ -102,6 +105,7 @@ class NewCatEvents:
             status = "medicine cat apprentice"
         elif "new_med" in new_cat_event.tags:
             status = "medicine cat"
+
 
         created_cats = create_new_cat(Cat,
                                       Relationship,
