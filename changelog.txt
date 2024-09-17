@@ -1,18 +1,26 @@
-<strong>1.1 - 17 new accessories</strong>
-(4/21/23)
-<strong>added:</strong> wisteria strands, mossy pelt, reed & bamboo nest decorations, kingsnakes, differently colored mice (white, gray, black, and brown!), grey rabbit variants, and a leaf bow!
-- around 34 new events for these accessories!
-- added a few worm events and other missing accessory events
-- fixed a handful of bugs (hopefully)
-- gave held moss a fresh coat of paint =3
+<strong>v0.11.2</strong>
+- Fix: ensure that the changelog is read as UTF-8
+- Fix: issue with manual feeding with tactic "low nutrition first"
+- Fix: edge case of a cat has the exiled status, but is not outside
 
-- - -
+<strong>v0.11.1</strong>
+- Fix: The changelog. Yep, just the changelog. Yes, it happened again-
 
-<strong>v1.0 FIRST RELEASE !!!</strong>
-(4/16/23)
-thank you for playing !!!!!
-- added roughly 68 accessories into the game
-- added at least 136+ events to go along with them
-- changed and edited menu to show trinketclink, the mod's mascot :3c
-- increased chance of a cat gaining an accessory (150 -> 100)
-(you can change this in game_config.json with a json editor like vscode!)
+<strong>v0.11.0</strong>
+- Feature: Freshkill pile & nutrition system
+- Feature: "Destroy accessory" button
+- Content: Lakeside Forest Background
+- Content: Murder for the new year
+- Content: expanded scars: "HINDLEG", "BACK", "QUILLSIDE", "SCRATCHSIDE", "TOE", "BEAKSIDE", "CATBITETWO", "SNAKETWO", "FOUR"
+    Expanded tortie: 'FRECKLED' white patches: 'BLAZEMASK', 'TEARS'
+- Content: Sibling and constrained patrols
+- Content: weights and mates
+- Content: expanded war events
+- Content: more patrols
+- QOL: Cat List UI Update
+- QOL: same sex setting update
+- QOL: update for freshkill switch
+- QOL: Patrol type decision enabled in classic
+- QOL: updated credits list
+- QOL:  change to poetry
+- Plus many more bug fixes, tweaks to events and patrols, and more! Aprils fools - we made an actual game update.

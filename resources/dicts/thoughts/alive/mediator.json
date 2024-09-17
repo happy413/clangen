@@ -2,8 +2,8 @@
     {
         "id": "mediator_to_dead_mediator",
         "thoughts": [
-            "Wishes they could ask r_c for advice",
-            "Wonders how r_c would have handled their most recent conflict"
+            "Wishes {PRONOUN/m_c/subject} could ask r_c for advice",
+            "Wonders how r_c would have handled c_n's most recent conflict"
         ],
         "random_status_constraint": [
             "mediator"
@@ -22,6 +22,9 @@
         "random_status_constraint": [
             "mediator",
             "mediator apprentice"
+        ],
+        "random_living_status": [
+            "living"
         ]
     },
     {
@@ -42,6 +45,9 @@
         ],
         "random_status_constraint": [
             "leader"
+        ],
+        "random_living_status": [
+            "living"
         ]
     },
     {
@@ -57,13 +63,13 @@
         "id": "mediator_gen",
         "thoughts": [
             "Is feeling a sense of pride after mediating a difficult argument",
-            "Wishes their Clanmates would just talk to each other",
-            "Is upset at a recent negotiation with a rival Clan",
-            "Is negotiating trading herbs with a rival Clan",
+            "Wishes {PRONOUN/m_c/poss} Clanmates would just talk to each other",
+            "Is upset by a recent negotiation with a rival Clan",
+            "Negotiates a herb trade with another Clan",
             "Is negotiating with a kittypet to make use of the herbs in their Twoleg garden",
-            "Is dismayed at how quickly their Clanmates get into arguments",
+            "Is dismayed at how quickly {PRONOUN/m_c/poss} Clanmates get into arguments",
             "Feels exhausted after mediating so many arguments",
-            "Feels pride for their mediator work",
+            "Feels pride for {PRONOUN/m_c/poss} work",
             "Is mediating a couple's relationship",
             "Is mediating a long time friendship between two Clanmates",
             "Is feeling frustrated after a failed negotiation",
@@ -71,35 +77,26 @@
             "Wants to solve a dispute with another Clan",
             "Wonders if mediating is meant to be so draining",
             "Wonders if being a warrior would have been more fun",
-            "Is proud of how well they are doing as a mediator",
+            "Is proud of how well {PRONOUN/m_c/subject} {VERB/m_c/are/is} doing as a mediator",
             "Accidentally made an argument worse",
             "Is proud of getting through a difficult mediation session",
-            "Feels exhausted from their Clanmates' bickering",
+            "Feels exhausted from {PRONOUN/m_c/poss} Clanmates' bickering",
             "Is listening to both sides of an argument",
-            "Is feeling a bit underappreciated for their mediator work",
-            "Is wondering if they made the right decision to become a mediator",
-            "Is relieved they broke up an argument before it started",
+            "Is feeling a bit underappreciated for {PRONOUN/m_c/poss} mediation",
+            "Is wondering if {PRONOUN/m_c/subject} made the right decision to become a mediator",
+            "Is relieved {PRONOUN/m_c/subject} broke up an argument before it started",
             "Is hoping the Clan can stay peaceful",
             "Is contemplating teaching the Clan communication skills",
             "Is mediating a small disagreement between two Clanmates",
-            "Wonders if c_n considers them a good mediator"
-        ]
-    },
-    {
-        "id": "altruistic_mediator",
-        "thoughts": [
-            "Wonders why everyone can't just get along"
-        ],
-        "main_trait_constraint": [
-            "altruistic"
+            "Wonders if c_n considers {PRONOUN/m_c/object} a good mediator"
         ]
     },
     {
         "id": "bloodthirsty_mediator",
         "thoughts": [
-            "Is wondering if they should sabotage a relationship that is going a bit too well",
+            "Is wondering if {PRONOUN/m_c/subject} should sabotage a relationship that is going a bit too well",
             "Wishes to break up a sickeningly lovey-dovey couple",
-            "Chuckles to themself after sabotaging another relationship"
+            "Chuckles to {PRONOUN/m_c/self} after sabotaging another relationship"
         ],
         "main_trait_constraint": [
             "bloodthirsty"
@@ -109,7 +106,7 @@
         "id": "cold_mediator",
         "thoughts": [
             "Is judging two Clanmates for their foolish argument",
-            "Wishes to break up a sickeningly lovey dovey couple",
+            "Wishes to break up a sickeningly lovey-dovey couple",
             "Is sitting back and watching an argument take place"
         ],
         "main_trait_constraint": [
@@ -117,13 +114,13 @@
         ]
     },
     {
-        "id": "empathetic_mediator",
+        "id": "compassionate_mediator",
         "thoughts": [
             "Feels bad for a parent who can't seem to get along with their child",
             "Wonders why everyone can't just get along"
         ],
         "main_trait_constraint": [
-            "empathetic"
+            "compassionate"
         ]
     },
     {
@@ -140,7 +137,7 @@
         "id": "insecure_mediator",
         "thoughts": [
             "Finds mediating emotionally draining",
-            "Is worried they may have made things worse"
+            "Is worried {PRONOUN/m_c/subject} may have made things worse"
         ],
         "main_trait_constraint": [
             "insecure"
@@ -149,7 +146,8 @@
     {
         "id": "loving_mediator",
         "thoughts": [
-            "Wonders why everyone can't just get along"
+            "Wonders why everyone can't just get along",
+            "Sees all sides of the argument"
         ],
         "main_trait_constraint": [
             "loving"
@@ -177,7 +175,8 @@
     {
         "id": "troublesome_mediator",
         "thoughts": [
-            "Is looking for a pair to sabotage, out of boredom"
+            "Is looking for a pair to sabotage, out of boredom",
+            "Solves problems by starting them"
         ],
         "main_trait_constraint": [
             "troublesome"
@@ -186,8 +185,8 @@
     {
         "id": "vengeful_mediator",
         "thoughts": [
-            "Is wondering if they should sabotage a relationship that is going a bit too well",
-            "Wishes to break up a sickeningly lovey dovey couple",
+            "Is wondering if {PRONOUN/m_c/subject} should sabotage a relationship that is going a bit too well",
+            "Wishes to break up a sickeningly lovey-dovey couple",
             "Is sitting back and watching an argument take place"
         ],
         "main_trait_constraint": [
@@ -195,5 +194,3 @@
         ]
     }
 ]
-
-
