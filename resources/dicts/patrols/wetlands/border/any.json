@@ -41,10 +41,8 @@
                 "weight": 20,
                 "stat_trait": [
                     "compassionate",
-                    "empathetic",
                     "faithful",
                     "loving",
-                    "patient",
                     "responsible",
                     "thoughtful",
                     "wise"
@@ -119,10 +117,8 @@
                 "weight": 20,
                 "stat_trait": [
                     "compassionate",
-                    "empathetic",
                     "faithful",
                     "loving",
-                    "patient",
                     "responsible",
                     "thoughtful",
                     "wise"
@@ -208,10 +204,8 @@
                 "weight": 20,
                 "stat_trait": [
                     "compassionate",
-                    "empathetic",
                     "faithful",
                     "loving",
-                    "patient",
                     "responsible",
                     "thoughtful",
                     "wise"
@@ -297,10 +291,8 @@
                 "weight": 20,
                 "stat_trait": [
                     "compassionate",
-                    "empathetic",
                     "faithful",
                     "loving",
-                    "patient",
                     "responsible",
                     "thoughtful",
                     "wise"
@@ -359,10 +351,8 @@
                 "weight": 20,
                 "stat_trait": [
                     "compassionate",
-                    "empathetic",
                     "faithful",
                     "loving",
-                    "patient",
                     "responsible",
                     "thoughtful",
                     "wise"
@@ -421,10 +411,8 @@
                 "weight": 20,
                 "stat_trait": [
                     "compassionate",
-                    "empathetic",
                     "faithful",
                     "loving",
-                    "patient",
                     "responsible",
                     "thoughtful",
                     "wise"
@@ -499,10 +487,8 @@
                 "weight": 20,
                 "stat_trait": [
                     "compassionate",
-                    "empathetic",
                     "faithful",
                     "loving",
-                    "patient",
                     "responsible",
                     "thoughtful",
                     "wise"
@@ -577,10 +563,8 @@
                 "weight": 20,
                 "stat_trait": [
                     "compassionate",
-                    "empathetic",
                     "faithful",
                     "loving",
-                    "patient",
                     "responsible",
                     "thoughtful",
                     "wise"
@@ -655,10 +639,8 @@
                 "weight": 20,
                 "stat_trait": [
                     "compassionate",
-                    "empathetic",
                     "faithful",
                     "loving",
-                    "patient",
                     "responsible",
                     "thoughtful",
                     "wise"
@@ -723,10 +705,8 @@
                 "weight": 20,
                 "stat_trait": [
                     "compassionate",
-                    "empathetic",
                     "faithful",
                     "loving",
-                    "patient",
                     "responsible",
                     "thoughtful",
                     "wise"
@@ -792,10 +772,8 @@
                 "weight": 20,
                 "stat_trait": [
                     "compassionate",
-                    "empathetic",
                     "faithful",
                     "loving",
-                    "patient",
                     "responsible",
                     "thoughtful",
                     "wise"
@@ -891,10 +869,8 @@
                 "weight": 20,
                 "stat_trait": [
                     "compassionate",
-                    "empathetic",
                     "faithful",
                     "loving",
-                    "patient",
                     "responsible",
                     "thoughtful",
                     "wise"
@@ -1001,10 +977,8 @@
                 "weight": 20,
                 "stat_trait": [
                     "compassionate",
-                    "empathetic",
                     "faithful",
                     "loving",
-                    "patient",
                     "responsible",
                     "thoughtful",
                     "wise"
@@ -1111,10 +1085,8 @@
                 "weight": 20,
                 "stat_trait": [
                     "compassionate",
-                    "empathetic",
                     "faithful",
                     "loving",
-                    "patient",
                     "responsible",
                     "thoughtful",
                     "wise"
@@ -1184,10 +1156,8 @@
                 "weight": 20,
                 "stat_trait": [
                     "compassionate",
-                    "empathetic",
                     "faithful",
                     "loving",
-                    "patient",
                     "responsible",
                     "thoughtful",
                     "wise"
@@ -1669,7 +1639,7 @@
                 "weight": 20
             },
             {
-                "text": "The pawprints lead to a trespassing rogue. s_c tries to set up a trap by using the marshy terrain to cut off the rogue's escape path, but {PRONOUN/s_c/subject} {VERB/s_c/aren't/isn't} as smart as {PRONOUN/s_c/subject} {VERB/s_c/think/thinks} {PRONOUN/s_c/subject} {VERB/s_c/are/is}. The trap fails, and the rogue wanders on.",
+                "text": "The pawprints lead to a trespassing rogue. s_c tries to set up a trap by using the marshy terrain to cut off the rogue's escape path, but {PRONOUN/s_c/subject} {VERB/s_c/are/is}n't as smart as {PRONOUN/s_c/subject} {VERB/s_c/think/thinks} {PRONOUN/s_c/subject} {VERB/s_c/are/is}. The trap fails, and the rogue wanders on.",
                 "exp": 0,
                 "weight": 20,
                 "stat_skill": ["CLEVER,1"]
@@ -1897,7 +1867,7 @@
                 "weight": 20
             },
             {
-                "text": "The pawprints lead to a trespassing rogue. s_c tries to set up a trap by using the marshy terrain to cut off the rogue's escape path, but {PRONOUN/s_c/subject} {VERB/s_c/aren't/isn't} as smart as {PRONOUN/s_c/subject} {VERB/s_c/think/thinks} {PRONOUN/s_c/subject} {VERB/s_c/are/is}. The trap fails, and the rogue wanders on.",
+                "text": "The pawprints lead to a trespassing rogue. s_c tries to set up a trap by using the marshy terrain to cut off the rogue's escape path, but {PRONOUN/s_c/subject} {VERB/s_c/are/is}n't as smart as {PRONOUN/s_c/subject} {VERB/s_c/think/thinks} {PRONOUN/s_c/subject} {VERB/s_c/are/is}. The trap fails, and the rogue wanders on.",
                 "exp": 0,
                 "weight": 20,
                 "stat_skill": ["CLEVER,1"]
@@ -2095,7 +2065,7 @@
                 "weight": 20
             },
             {
-                "text": "The pawprints lead to a trespassing rogue. s_c tries to set up a trap by using the marshy terrain to cut off the rogue's escape path, but {PRONOUN/s_c/subject} {VERB/s_c/aren't/isn't} as smart as {PRONOUN/s_c/subject} {VERB/s_c/think/thinks} {PRONOUN/s_c/subject} {VERB/s_c/are/is}. The trap fails, and the rogue wanders on.",
+                "text": "The pawprints lead to a trespassing rogue. s_c tries to set up a trap by using the marshy terrain to cut off the rogue's escape path, but {PRONOUN/s_c/subject} {VERB/s_c/are/is}n't as smart as {PRONOUN/s_c/subject} {VERB/s_c/think/thinks} {PRONOUN/s_c/subject} {VERB/s_c/are/is}. The trap fails, and the rogue wanders on.",
                 "exp": 0,
                 "weight": 20,
                 "stat_skill": ["CLEVER,1"]
@@ -2283,9 +2253,7 @@
                     "charismatic",
                     "childish",
                     "playful",
-                    "empathetic",
-                    "loving",
-                    "patient"
+                    "loving"
                 ],
                 "relationships": [
                     {
